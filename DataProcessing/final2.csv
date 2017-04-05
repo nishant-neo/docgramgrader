@@ -1,0 +1,2395 @@
+,A_PLURAL,MORFOLOGIK_RULE_EN_GB,SENTENCE_FRAGMENT,UPPERCASE_SENTENCE_START,stdid,text,ENGLISH_WORD_REPEAT_BEGINNING_RULE,EN_COMPOUNDS,IN_PAST,I_LOWERCASE,HE_VERB_AGR,THERE_S_MANY,IT_IS,SENT_START_CONJUNCTIVE_LINKING_ADVERB_COMMA,COMMA_PARENTHESIS_WHITESPACE,EN_A_VS_AN,SENTENCE_WHITESPACE,WONT,BEEN_PART_AGREEMENT,WOMAN_WOMEN,DOUBLE_PUNCTUATION,EN_CONTRACTION_SPELLING,MY_BE,ADVERB_WORD_ORDER,AM_I,ADMIT_ENJOY_VB,ADVISE_VBG,IN_A_X_MANNER,THE_SENT_END,CANT,ENGLISH_WORD_REPEAT_RULE,KIND_OF_A,MASTERS,TOO_DETERMINER,EN_QUOTES,EN_UNPAIRED_BRACKETS,EN_GB_SIMPLE_REPLACE,NEW_XX,PROGRESSIVE_VERBS,PRP_RB_NO_VB,ANY_BODY,MAY_BE,ACCORDING_TO_ME,AFFORD_VBG,MISSING_HYPHEN,TO_TOO,DT_PRP,EVERYDAY_EVERY_DAY,MISSING_COMMA_AFTER_INTRODUCTORY_PHRASE,PEOPLE_VBZ,LOOSE_LOSE,EVERY_EACH_SINGULAR,RATHER_THEN,COMPARISONS_THEN,SO_AS_TO,TRY_AND,NON3PRS_VERB,THE_SUPERLATIVE,POSSESSIVE_APOSTROPHE,IT_VBZ,WHERE_AS,WHITESPACE_RULE,AFFECT_EFFECT,I_MOVING,THEIR_IS,SOME_OF_THE,A_UNCOUNTABLE,COMP_THAN,DID_BASEFORM,LITTLE_BIT,CD_NN,HAVE_PART_AGREEMENT,APOSTROPHE_PLURAL
+0,1.0,1.0,1.0,1.0,BITS01,"I am a peoples‘ person. Sincerity and commitment to my work are what I
+consider to be my strengths. Bonding among the team members is the most
+important thing to keep them motivated. Also, breaking down of bigger tasks
+
+into short term goals and rewards for the same will help them stay motivated.
+
+A friend of mine was always late to project meetings and never informed us
+about the same. I attributed this to her non—seriousness towards the work.
+Whereas, she was under a lot of stress at that time due to family problems.
+That was the time I wrongly judged her for being insincere. The biggest
+challenge I have faced so far is to not worry about things I can't change/ do
+anything about. I can't think of a reason for that. Public speaking and the art
+of pursuation",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,0.0,4.0,0.0,0.0,F001,"Java developer currently working in SG with 3 years experience. Yes. I have
+good career and happy with where my current position. Noone. Incentives
+and appreciations and most importantiy doing justice with my job. I dint get a
+dream job but did very well in the job. Organizor of Ofﬁce fun mails",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,0.0,1.0,0.0,0.0,F002,"I have completed my engineering in instrumentation technology, currently
+undertaking master of engineering at university of technology, sydney. Yes, i
+am a hard working person and i like to learn and lot for my personal growth.
+A lot of people have inspired me but mainly i would like yo say that my father
+is my inspiration. I have grown up watching him and i aspire to be like him in
+future. I would like to help people and contribute to the society i live in, which
+i consider is my biggest motivation. I always fail keeping up my diet in order
+to lose weight, but i have lot of willpower and patience which keeps me
+going. I believe everybody is creative in their own sense, i would like to say i
+am creative in whatever i do",2.0,1.0,1.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,0.0,3.0,0.0,0.0,F003,"Computer Science engineer by profession, always looking to Ieam new things.
+
+Partially. Have a lot of things that I haven't achieved yet. Could be anyone
+from whom I can Ieam new things. Being or trying to be perfect in every work
+I undertake. Can't think of any as such. But ifl do not put in my best then I
+will look back and learn from the mistakes. For my self assessment that will
+be helpful in the future. Interior designing of my house",0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,0.0,1.0,0.0,0.0,F004,"I am a software engineer working as a software architect in Robert Bosch Pvt
+Ltd. Not yet as there is lots to achieve in terms of gaining knowledge and
+excellence. People who have achieved excellence in there respective area of
+work inspires me as it motivates me to do better in whatever I am doing. The
+satisfaction that I get after giving my 100 percent for any job motivates.
+Every job I look for something to Ieam and experience. Think of the worst
+case scenario before setting any goal which will help in handling if goal is not
+reached. I try to Minimize wastage and maximise usage of resources which
+requires to be creative",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,0.0,3.0,0.0,0.0,F005,"Currently working as a software engineer in societe general global solution.
+Yes, I consider myself successful. I have an excellent job and able to do
+justice to my work successfully. No one in particular, but yes I do get inspired
+by all big/small achievements of everyone. When I realise how my good work
+is being helpful when seeing it in bigger picture, it motivates me to do good
+jobul. I had screwed up cat exams in ﬁrst attempt but still dint give up and
+writing it again. I'm part of organising committee for fun activities where we
+arrange all FUN activities",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,0.0,6.0,0.0,0.0,F006,"I am a fu|l—time professional Web Developer, a traveler, avid reader and a
+novice photographer. Yes. I have got an opportunity to transform myself
+through hard work. I have the priviledge to help people experience latest in
+web technology and thus make their life better. Also its a pleasure to lead
+people, get inspired and inspire others by getting job done. My father, friends
+and many inﬂuential people around the world. Their work ethics, energy to
+create an impact for people around them is a great source of motivation. The
+positive outcome that could help people and organizations succeed through
+hard work and constant innovation. Helping people succeed is the primary
+source of motivation. I couldn't ﬁnish my Bachelor's Degree. However I
+compensated the lieu by self—|eamed demanding skills the web industry
+currently. I developed a Javascript library that manipulates the web elements
+using the data retrieved from accelerometer and gyroscope of smartphones
+and using which, the elements on the web page was made to simulate real-
+world shadows with an imaginary light source",1.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,0.0,2.0,0.0,0.0,F007,"Easy to go with and have 1""un.To keep everybody interested. Judged a English
+speaker that he couldn't speak hindi , but he was excellent at that too. Small
+talks. I might get bored after saturation. Playing a musical instrument",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,0.0,2.0,0.0,0.0,F008,"23,Mumbai. Tech and food is exciting. Prefer being alone than a group of
+unknowns. Friendliness. They are always comfortable around me and that is
+what gets the real views out of them. Comfort is better. Let them have their
+personal time and their mental state shall reﬂect on the productivity. Many
+instances for me on this. A Client, wont name, slammed our tech product and
+heavily criticized it. We made improvements and reached out to him again,
+only to find out he did that for our own good. Such things happen and these
+people just know how to react. Scaling a tech product from a 0 to a 1. Then
+convincing companies to use your naive product in their operations. My
+commitment can be a pain sometimes. I have worked throughout the night
+multiple times to get my deliverable complated. In such cases, i might bug
+everyone related to the product / system. That would be video editing. I have
+started to acquire some new techniques on the same",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,0.0,3.0,0.0,0.0,F009,"25 year Software Developer. Currently completing graduation in USA. Will
+Code for Food, and prefer Netﬂix over sleep. Make sure no conﬂicts among
+team members. More per1<s / outings. Misjudged a friend to be helpful, but he
+was actually jealous and never wanted my growth. Convince my parents I can
+do MS outside India (in USA). Because I am too good for your taaks. Learn to
+play the piano",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,0.0,0.0,0.0,0.0,F010,"Simple human being. Share the work equally. I underestimated a women
+assuming her to be a civilian later turned out a lieutenant commander.
+Clearing the naval interview was the biggest challenge. I am bit lazy
+sometimes. How to cook tasty food",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,0.0,0.0,0.0,0.0,F011,"I am a student of electrical and computer engineering at Texas A&M. My
+native is bangalore, India. My interests are in machine Ieaming, Statistical
+estimation etc. And i ﬁnd this job particularly matching my interests. I would
+focus on innovation and preach the team that the project we are doing is for
+a very good cause. Further I would give incentives to perform better like
+nominating them for different awards within the company. I do not have a
+particular instance. But many times the principle innocent until proven guilty""
+principle which i follow hasnt been true."". During my ﬁrst job, I was not very
+good at programming. So in order to not appear unskilled"" before the people i
+spent extra efforts to Ieam the same.  I am very good working alone but
+sometimes not so good working in teams. But I am trying to pick that up. My
+2 yr work experience has taught me a lot. I can Ieam any programming
+language since now I am very comfortable with the basics thanks to the
+experience. Also I am eager to Ieam machine learning models for high
+dimensional sparse data. Furtheri am interested in learning about the usage
+of GPUs for ML",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,0.0,2.0,0.0,0.0,F012,"PhD student in aerospace engineering and aspinng professor. Rewards for
+good performance. I trusted a teammate assuming he had integrity, however
+he took credit for work he didn't do. Preparing for aerospace PhD qualifying
+exam. I am too pedantic. Learn to be better at math",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,0.0,7.0,1.0,0.0,F013,"My name is tushar menon. I have been working in xyz domain. *brief
+introduction about my background*. Encourage collaboration and make them
+realize that the team doing well holds a lot of beneﬁt for them as well.
+Reward good pen‘ormances..be a good listener. During a tendering process,
+where i felt this colleague was being too much of a stickler for details. He was
+providing too much detail to the customer. But it was this detai|—oriented
+approach which one us the order. Liaising with people who have little to no
+knowledge about my domain. If you have someone more qualiﬁed.
+Leadership, mentorship",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,0.0,2.0,1.0,5.0,F014,"a jovial vivacious fun loving person..love to work with solar pane|s!. I hate
+group wor1<s!! still, I'll bribe my team with dinner coupons at exotic
+restaurants after the success of every project. not prejudgemental at all. low
+self conﬁdence phase after graduation. if you don't want smart people who
+can be hard working as well to achieve their goals. working in teams",0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,0.0,0.0,0.0,0.0,F015,"Fun loving, family guy. Lead by example would be the best approach. When i
+thought the girl is going to turn right with her left indicator :p. Writing this in
+middle of a meeting. Cause i may take your position soon. Carpentry",0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,0.0,5.0,0.0,1.0,F016,"My resume would have given a fair idea about my professional background.
+On the personal side, I love listening to Indian classical music, am an
+occasional singer and follow cricket closely. My acquaintance in your
+esteemed company told me about this recreational club . Over and above
+learning the ropes in my daily work life , I would love to be part of this
+recreational committee. Most teams that I have been in, involved showing the
+bigger picture and then delegating work among the people to reach this end.
+I feel every member is motivated when he/she is well apprised of the
+individual beneﬁts involved. I would try my best to delegate duties in line
+with the career aspirations of my team members. I have been a ﬁrm believer
+of sound class room training before you undertake a project. In my ﬁrst job as
+a commissioning engineer, I was shipped off to site in my third month. I felt
+my managerjust doesnt want to invest in my training and thus complained
+to my HR. But little did I know that my manager had planned a detailed
+session for me once i returned. He felt that unless i have an appreciation of
+the product and the system, i will only be conﬁned to academic knowledge,
+which is true. The training was extremely useful and i could relate far better
+with my domain thereafter. when faced with a technical issue, I often go back
+to my fundamentals in engineering and that helps me immensely. Similarly I
+feel at ease in explaining the details about my products to people who have
+some appreciation for the domain in which I am working. But often I am faced
+with people who have little to no knowledge about the product but sadly are
+the decision makers. Making things palatable to them is a big challenge. The
+role requires considerable client interaction. That‘s an area I am working on. I
+feel I am too direct at times with customer. An ideal person for this role would
+be very crafty in speech and presentation. I wish to learn those skills from my
+esteemed peers in this company. I would love to undertake some mentor-ship
+roles in the long run",1.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,0.0,4.0,0.0,1.0,F017,"This is Megha, completed my BE in CSE in JVIT. I am a positive thinker, goal
+oriented. Work and then rest. Once i misjudged my mom because of her over
+caringness. But later got to know it is what true love is. Now by ﬁnding a
+
+suitable job that suits my skill set. No comments. I want you to hire me.
+Jquery, struts, hibernate, J2EE",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,0.0,4.0,0.0,1.0,F018,"I am Kaptan Singh.i have done B.Tech in CSE. By giving bonus and incresing
+salary based on the performance. To understimate the strength of a person.
+To motivate himself for study in bad ﬁncial condtion. If you hire me then i will
+try to give my best for achieving organisational goal. work with creativity",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,0.0,1.0,0.0,2.0,F019,"G E T in Synte|,Pune. leading from front. nan. Job Satisfaction. No Reason.
+Selenium Testing",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,0.0,4.0,1.0,0.0,F020,"I am MCA 2016 batch passout job seeker looking for opportunities in IT
+Industry. Encourage. When i am in Stress. I have faced so many challenges
+but the toughest one is not getting a job but still smiling and doing more hard
+work to improve me day by day. Sir, being a fresher I don't have enough
+industrial knowledge, but once I get the opportunity I'll put my 100 percent
+effort to prove myself and be an asset to your company. Since I am a quick
+leamer and possess appropriate skills for the job I'll fulﬁll all the needs of the
+organisation. Big data, Hadoop",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,0.0,2.0,0.0,0.0,F021,"Teamplayer. Gifts. I didn't think in his point of view. Proving myself. I'm not
+matured. Bigdata",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,0.0,13.0,1.0,1.0,F022,"Am Anusha, my home town is Harihar(T), Davanagere deistic. I pursued my
+BE in Computer science in GMIT college, and I also completed my diploma in
+Computer science in Govt polytechnic harihar and I completed my 10th in
+MKTLK high schoil harihar. I always ask their opinion, and I always be friendly
+with them. Some time for motivation need some creativity like conducting
+game's and give best teams like that. We can motivate team members. when
+am studying my diploma I become very close to one girl, she always used to
+share her all feelings one day the other girl cane and told don't to be close to
+her, I misjudged this girl and I also scolded afterl came to know that this girl
+is right. ljudge her wrong way and all. When am in childhood 2 times I got an
+accident that is the biggest challenge in my life. If your not eligible for your
+proﬁle then you can. It will be the grade mark to you, ifi learn something
+mean it is the beniﬁte to your company only, by this you can builde many
+new ideas and thier will not any issue for giving training",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,0.0,6.0,0.0,0.0,F023,"I'm a Database Administrator with two years of experience managing all the
+aspects of rdbms including oracle and mssql. Promote creativity and team
+spirit.Provide challenging tasks and appreciate their work. Deepika padukone
+on her acting skills, she's one hell of an actress now. Managing an activity at
+ofﬁce which was done in production , for the very ﬁrst time, Independently.
+You shouldnt hire me if you only want a person who would work 9-5 and never
+put in extra effort. I thrive in tasks that need n appreciate hard work. To drive
+
+a car, to play guitar",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,0.0,3.0,0.0,0.0,F024,"Self made artist, entrepreneur and software analyst. Hailing their previous
+achievements, to help them visualise the big picture, by creating competition
+amongst peer to recieve great rewards,. When a team member took off on an
+emergency leave when there was hectic schedule of delivery, i judged the
+person as he tried to escape the work with a reason. I realised it as a mistake
+when the person came back to work to fulﬁl his responsibility even he was ill.
+Professional challege faced so far, was to convince a client board consisted of
+8 people on a requirement where in all of them had different opinion. But my
+job as functional subject matter expert was to convince the board to come to
+terms of an application unit and deliver the content within timeline. As i tend
+to seek perfection at what i do, i m not suitable for this position where the
+variance from the perfection is accepted for delivery. Marketing strategist",0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,0.0,4.0,0.0,1.0,F025,"Hi, I am Rishabh Mishra from Kanpur. I have completed my B.E. in CSE from
+RVCE Bangalore and currently working as a Firmware Engineer at SanDisk. By
+giving them rewards and recognition and by working with them. I try not to
+judge a person. The biggest challenge which I faced was when the release
+date of the product was closing in and there was a sudden requirement
+change. Thus, giving us a very short time to ﬁnish the desired task as per
+new requirement. In spite of all this project delivery met the deadline. You
+shouldn't hire me if you are looking for people who treat theirjob as 9 to 5
+business and don't take their role seriously. nan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,0.0,4.0,0.0,0.0,IMT2012029,"I'm Neha, a fourth year student of Integrated Mtech course from International
+Institute of Information Technology, Bangalore. My areas of interest are Image
+processing and machine Ieaming. I'm looking forward to do some research in
+the same areas. My hobbies include listening to music and playing table
+tennis. Each person has different ways to approach a particular problem,
+different skill sets as well. A person from the same organization would show
+same amount of enthusiasm even if promoted to a higher level. New recruits
+would get in some new approaches in dealing with problems with new skill
+sets. Being a student from IIITB, I possess great skills to solving a different
+variety of problems. Coming from research background, I look into every
+aspect of the problem being solved to make it an easy job. No, I believe in
+what decisions I take for myself. Even if they are wrong, I don't regret as at a
+point of time it was me who took that decision. I have tried Web Development
+in the 4 years in my college. If given a chance, I would deﬁnitely try working
+on it. Considering I am 21 years old, the toughest decision in my life would be
+limited to choosing college after 12th grades. There were plenty of options,
+each great in their own way. Choosing my interests, ambiguity about the
+place of college, staying away from home for the first time, everything had to
+be considered",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,0.0,4.0,0.0,0.0,IMT2012033,"I am a 5th year Integrated Mtech student at IIITB. I am interested in
+information technology and speciﬁcally data driven technologies. I have quite
+a number of hobbies as well including playing football, table tennis and few
+other sports. Apart from this, I also like to discuss new ideas and technologies
+with my friends in the same domain. If I have problems at my workplace, I
+would look for someone who I trust. This could be my boss, my colleague or
+just friend. Also if I can know someone who has been In a similar situation, I
+would like to hear about how he/she approached the problem. I am applying
+as a fresher. Sol don't think there is anyone with the same skill set who is
+below me in the organization. This was for a course project. I thought I was
+well versed with the technology and have tested on enough test cases and
+decided to skill on a lot of error handling for saving some time. But
+eventually, there were bugs during the demonstration which I couldn't
+resolve and wasn't even able to ﬁnd their origin. If I look at my overall
+journey, it suggests that I have taken many risks. One of these is choosing to
+be part of the first batch of a university among others. Whenever I do good at
+the work I am assigned, I feel good about myself. One more thing is that
+people might not appreciate your good work, but they will deﬁnitely criticize
+your mediocre work",1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,0.0,17.0,0.0,0.0,IMT2012042,"I am Srikrishna S Bhat. I am an Integrated m. Tech student from IIIT—
+Bangalore. My hometown is Mysore. Some of my interests lie in the ﬁeld of
+Computer Vision, Robotics, Neuromorphic Computing and Optimization. My
+hobbies are playing football and reading mystery novels and manga. I deﬁne
+success as an achievement of your goals which also adhere to your ideals. My
+initial interests were in the ﬁeld of Chemistry followed by Computer Science.
+Given that I am in a good institute which is wel|—known for Computer Science,
+I would say I am partly successful. I don't consider myself completely
+successful as I couldn't pursue my ﬁrst interest. Further studies will prove to
+be useful if one plans to work and specialize in a speciﬁc area in their ﬁeld.
+Also, it should also have some utility value as it takes time and money.
+Continuing on further studies without results could result in more loss than
+use. Therefore, one should make sure to have some ﬁnancial stability before
+doing so. I plan to continue on my further studies a few years after my job.
+Depends on the type of change. Drastic and completely unexpected changes
+in a negative context could damage my work and make me panic provided
+that I don't have time to deal with the change. At such situations I need
+another person to calm me down to deal with it. Or else I can calmly analyze
+negative changes in my work and deal with them appropriately. One problem
+in my nature is that I get easily distracted from my work if I am not in my
+workplace. So if you are a company which purely has work from home
+culture, you wouldn't want to hire me. On the plus side, if you have a lab like
+environment in the ofﬁce, I end up forcing myself to work in the lab as it
+provides me the right environment to work on. I was doing a project on path-
+ﬁnding and maze—so|ving robots as part of my course project. The project did
+require the use of stereo-vision, but due to time constraints, I ended up
+cutting comers and demonstrated a robot which couldn't work efﬁciently
+enough due to the lack of a 3d view obtained from stereo-vision. I was
+criticized there for being negligent for cutting—corners and not putting enough
+effort. I have tried to prevent such accidents in my future work",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,0.0,16.0,0.0,0.0,IMT2012043,"I am 5th year undergraduate student pursuing integrated masters in
+Electronics and Communications Engineering. I am passionate about Ieaming
+various technologies in the ﬁeld of computer vision. In fact, my aim is pursue
+research as my career in this ﬁeld in future. Other than the academic
+interesb I like playing outdoor games like cricket, table tennis, volley ball,
+foot ball etc. I also love listening to music and playing musical instruments
+like guitar. I am a novice guitar player at present and I am Ieaming th. I am a
+great believer of hard work and passion. I take into account the 'interest' of
+an individual whenever dealing with them. Hence, most of time my strategies
+are going to be along the lines of understanding the interests of the people at
+ﬁrst and try to motivate them in the project by making them realize the
+importance of thier. I once worked in a team of 5 individuals. 2 of
+them(inc|uding myself) are interested in working on the technicalities of the
+project while others are not. Hence, we divided the project work among
+ourselves depending on our interests. 2 of us worked on the technicalities of
+the project, one on implementation of those technicalities and while rest two
+of them helped in documentation of the project. But each time we ensured
+that we discuss with each other about our work during our meetings in order
+to ensure that everything is going in a right manner. I would prepare for my
+IITJEE and AIEEE exam in a more matured way. I would manage my time in a
+much better way (than i had done before) in utilizing it for playing various
+games of my interests, learn music (which i always regret for not Ieaming it)
+and last but not the least learn how to be active in the public involving myself
+in group discussions, debates and many such things. I would also spend time
+in going for a trip atleast once in a year with my family. I had a co—worI<er
+which was never supporting to me in working on the project. In fact, it
+annoyed me the most when i came to know that he can do very less work
+and get a good grade still as I was there in the project. But, all these things
+were in fact proved to be not correct completely when i started working on
+him. He seems to be in need of help regarding the subject as he found it very
+difﬁcult in understanding it. Hence, I tried to help him while doing the project
+and ﬁnally by the end of the project I could ﬁnish the project as well teaching
+him the. No I never consider myself lucky all the time because i never
+achieved the things that i desired the most in my life till now. Even , in the
+current position I am in right now, I believe its because of my hard work and
+not by any chance. But, this belief now started making me realize that I might
+be lucky sometime whenever i put in more amount of hard work",3.0,0.0,1.0,5.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,0.0,7.0,0.0,1.0,IMT2012044,"I am a student at |||T—B.I am 22 years old I have taken many courses in data
+science and computer science. I mostly enjoy reading. I like jogging. I am a
+foodie. I have great friends who are all preparing for placements right now. I
+am a commited worker and don't waste time. I am open for co-operation and
+adjustments. I am a fast Ieamer as well.
+
+. I am organised in terms of my schedules, meetings and other work related
+commitments. But, I like to keep my personal life and things slightly
+disorganised, inorder to keep fun and liveliness. Nothing. Didn't do anything.
+reading all kinds of books, ﬁction and non-ﬁction, especially mysteries and
+thrillers. I like to jog and dance. I like to watch movies and tv series a lot",8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31,0.0,4.0,0.0,0.0,IMT2013008,"I'm a person who is fascinated by the little things in life. I enjoy adventure
+and the adrenaline rush that comes with it. Apart from pursuing a degree in
+Computer Science, I am passionate about hiking and traveling. My weakness
+is that I social interaction does not come naturally to me and I'm mostly an
+introvert. And probably another weakness is that I canot. Not really. Probably
+low conﬁdence in myself. Respected. I should be hired for my skill in a ﬁeld",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,0.0,18.0,0.0,0.0,IMT2013011,"My name is Deepti Kulkami. I am currently a 4th year iMTech student at |||T—B,
+pursuing a masters degree in IT. I am 21 years old. My hobbies include
+reading, movies, music, sketching, badminton among others. I am not yet
+perfectly sure of what my career(as such) will be, but I look forward to being
+an excellent programmer, contributing to the society in whichever way I can.
+It is said that change is the only constant in life, which is funny because it
+takes time to adapt to change. I am an optimist; so any change that occurs, I
+generally see it as a good one. But, more often than not, the opposite
+happens. I guess, to answer the question, all I can say is that I try to keep an
+open, unprejudiced mind about why the change is taking place and try my
+best to adapt to it in ways that beneﬁt me. When I was in the 12th standard, I
+was asked to choose between Biology or Statistics. We had an orientation
+about each of the streams; and of—course, bioIogy(being biology) seemed way
+more difﬁcult and rich a subject than statistics. I remember comparing the
+sizes of the books in both sections. Up until the orientation, I had always
+wanted to be a cardio-surgeon. My parents are both engineering profesors
+and so they were nudging me towards medicine. But I chose statistics,
+because it seemed like the easy way. It was one of the hardest decisions I
+have had to make. Under pressure, I have been ﬂustered at times. But this
+goes away in a while. When in pressure, in the beginning, it takes me time to
+get used to that kind of an environment, because usually I keep a calm mind
+and remain determined. 50, I would not say that it affects my performance,
+because I hate disappointing people and also myself. So, I will make sure that
+I achieve what I want to despite the odds. I am not really the best
+programmer(in the classical sense) around. And I have realized, over time,
+that I don't particularly enjoy programming either. Therefore, I would like to
+pursue higher studies. I think it will provide me with a clearer and profound
+perspective of any subject that I choose to study. But also, I don't want to be
+dependent on my parents for money, which is why I would take up a job ﬁrst,
+earn money for myself, while preparing for any exams that I have to write in
+order to pursue higher studies in a decent institution. Conﬁdence is having
+faith in yourself and your capabilities. Being conﬁdent is to be prepared for
+whatever is being thrown at your way. It does not mean that you will always
+be successful. That is over-conﬁdence. Over—conﬁdence is when you become
+too sure of yourself and make success the only option. You become too proud
+to accept defeat, which is hannful because you would never never learn.
+Being conﬁdent is to have a positive attitude and believe that you can do it
+and also believe that you will be ﬁne if in case you cant. It is not abu",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,0.0,14.0,1.0,0.0,IMT2013013,"I am Aneesha D, a fourth year iMtech student at |||T—B. My speciﬁc area of
+interest in the branch of computer science is compilers. I have done an
+internship on building backend for a compiler at IIT-H during summer 2016,
+which made me like the branch and continue with it. My other interests are
+singing, dancing and playing violin. I am a trained classical singer and a
+dancer. I have also given an initial grade exam for Trinity college of London,
+for violin recently. I think the term success is subjective. It depends on a
+person's goals. If a kid wants to win a competition, and he/she does, they
+succeed (short term goals), or if a grownup dreams of becoming a CEO of a
+company, makes it his/her life goal and does become one, he/she succeeds. I
+think there is no measure to success. It completely depends on the goal like
+mentioned above. During my summer internship, there were a lot of things to
+be installed. After the intstallation I had to Ieam a lot of things. My laptop
+used to get stuck frequently. There was nothing I could do with my laptop, but
+to see it getting stuck. I tried a lot of things, tried google-ing for help, took
+help from my seniors, but everything went in vain. I had almost lost hope on
+ﬁnishing my project, because two weeks had already got over. That is the
+time when I tried getting back into form, not worrying about anything else. If
+there occur situations when I lose hope or get down, I quickly get back to
+form and try completing my unﬁnished work. I try to encourage myself in
+doing and exploring new things. I am a very good Ieamer, and if something
+really interests me, I don't leave it. I try to ﬁnish all the work in time and get
+started with new ones. A plus point in me, that I believe, is that since I am a
+musical person"", I tend to have more concentration power than my peers
+(""non—musical ones"")."". Well, for me job satisfaction is the MAIN thing that
+matters. I cannot imagine myself doing some work that does not interest me,
+just for the sake of money. I am not saying that money doesn't matter. It
+does, to some extent. For example, I would be, in few years from now,
+working for a company that works in the area of my interests (compilers),
+which pays a decent amount as a salary to me. I am saying this because, I
+have worked hard to get to the stage where I am right now, and wouldn't
+want to go it for waste. On the other hand, I also plan to open an institute to
+teach students music, for free :). This was in our ﬁrst semester of college. I
+had lost my Math notebook one day, and was really worried about it. Then a
+guy from my class (we were not even friends until then) came to me and
+asked me if I was searching for my lost notebook. He said he saw one
+notebook lying on a table last day, but doesn't know who took (he didn't pay
+much attention to it). I thought it was he who took the book and was trying to
+act smart, just because he looked like a thief. Now I realize that I was very
+stupid and judgmental at that time, because he is actually a very nice person.
+WE are pretty good friends now",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,0.0,8.0,0.0,0.0,IMT2013018,"I am Vasundhara. I like reading, singing, playing and interacting with people
+from different walks of life. I come from a family of academicians. As a result
+of which, I have had an upbringing where knowledge (about almost anything)
+is regarded as an element of paramount importance. I try to complete the
+tasks given to me to the best of my abilities but I do not like donkey work. I
+like work which needs a certain degree of intelligence. I usually get along well
+with people of all sorts. I believe that whether this option should be pursued
+depends on the person and what they wish to achieve in their life. As for me,
+I want to know about more and more about things which I ﬁnd interesting. I
+also think that I would love the interactions and intellectual stimulation that
+only an academic place can provide. I will deﬁnitely take up such an option if I
+get the chance. Actually, this has not really happened yet to me in a
+professional capacity if perhaps a few instances from middle school or high
+school can be excused. However, if this were to happen in the right way
+(positive criticism), I think I would be able to handle it in a way it brings some
+improvement in my work or the organization. I will be willing to accomodate
+any suggestions or advice that I feel would make the work better. There are
+many such factors. Sometimes, the work ilself is very interesting, so that I
+get hooked to it. Sometimes, I see the good work done by people like
+Mahatma Gandhi or Isaac Newton or even Aristotle with very limited
+resources. The fact that they were able to do such amazing things motivates
+me to do my job, however tiny, to the best of my ability. Sometimes, it is the
+real people around me like my parents. I see that even though theirjob is not
+very huge in terms of impact, if they had not done it the way they had, where
+would I be?. This answer is probably the hardest. There are so many things
+that I wish I knew like writing poetry, playing football or surviving in the wild.
+But considering the world that we live in, I think I would like to Ieam
+meditation or some self-defence mechanism. These are the things off the top
+of my head. Ideally, I would of course like both. But yes, I am inclined more
+towards a job that I would enjoy than a job which pays quite a lot but makes
+me miserable. I would also take into account how I would ﬁt in the
+environment at the workplace before making this decision",3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,0.0,9.0,0.0,1.0,IMT2013026,"I am currently a fourth year Integrated MTech student at IIIT Bangalore. I
+consider myself to be a passionate self driven person who is also a
+technology as well as programming enthusiast. I love working on different
+projects which allow me to exercise my creativity. I am hard working as well
+as a determined student. I will persevere and will not stop until I reach my
+goals. Apart from my academic life, I have various hobbies and I believe that
+it is important to be holistic and well rounded I enjoy playing sports and am
+
+part of the college basketball team. I also enjoy playing throwball and squash.
+
+Apart from that I enjoy writing poetry in my free time. A recent difﬁcult
+situation I had faced was that of non cooperative team members. We had to
+write an open book, take home exam and we were in groups of three. We had
+to stay back during out holidays to complete the exam and one of my
+teammates refused to do so because she felt homesick. Initially, I was upset
+and stressed out because we had to complete the exam and there were only
+two of us and it counted for 50 percent weightage in a four credit course.
+That teammate was one of my best friends so that made it all the more
+difﬁcult. However, I decided to compartmentalize. I decided to take matters
+into my hands, work hard and attempt to do my best without that teammate.
+In the end, I was successful and we managed a good grade. I-‘rrst I would try
+to resolve the matter on my own. However, if it is a problem involving
+another colleague, I would try to talk to him and her. I would approach
+him/her politely and discuss the matter calmly. If that does not resolve the
+issue, then I would take it up with my manager. Success is a journey not a
+destination"". I don't think its such a black and white concept. In certain
+aspects of my life I think I am successful.| know I am not yet where I want to
+be yet I have a plan in place to get myself there. So relatively goal by goal I
+am improving on myself and I believe that is success.  The biggest
+challenge I've faced so far is the concept of Ieaming from one's failure and
+moving on. One of the hardest challenges in life is to face failure and
+rejection inspite of having prepared hard for an opportunity, One must learn
+to quickly move on without brooding and see the bigger picture. The
+strategies I would use to motivate my team is to ﬁrst recognize each
+individual's strengths and give them due recognition and award them for
+their achievements so far. Such a positive feedback loop will help one realise
+his/her full potential. Then, I would let them know (politely) what needs to be
+done in the future for improvement",3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,0.0,5.0,0.0,0.0,IMT2013036,"I am Soumya Rudraraju, from IIIT Bangalore. I am in my 4th year of my
+iMTech(IT). I am interested in developing something that will make lives
+easier. I always wanted to focus on the improving the lives of the poor. I hope
+that towards the end of the course, I will be able to achieve my goal. My goal
+was to perform well in my BITSAT and get into BITS Pilani Hyderabad
+Campus,. I couldn't achieve that because of my poor performance in BITSAT. I
+was a little depressed but this helped perform well in my Mains, and I was
+very successful indeed. I ﬁnally joined in IIIT Bangalore, though I wanted to
+stay close to home, my dream of studying in a prestigious college came true.
+I would LIKE to be RESPECTED by people genuinely. Every person would like
+to have a minimum respect in the society. But, I would like to be LIKED by
+people as well, because the respect I get would be fake. So, I would like LIKE
+and RESPECT to go hand in hand. If someone within the organization is
+promoted, the company would continue to have the same skill set. If I am
+hired from outside, then the company would have a chance to probably
+increase its skill set and become more efﬁcient. I am a little lazy at some
+things, but when I feel like doing something or I am given a responsibility to
+do something, I do not let my laziness come in my way. Also, I have tasks that
+I need to do on a particular day planned by the time the day begins. So, at
+times I am a disorganized person and at times I am an organized person. I do
+consider myself very lucky. When I look at people suffering, I do feel very
+lucky that I didn't have to undergo that suffering in my life. I am lucky to have
+a good family, studies and friends which many people do not have in their
+lives",5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,0.0,7.0,0.0,0.0,IMT2013038,"I'm Sharanya currently studying third year Integrated Mtech degree at |||T—B.
+I'm studying Information Technology as i have been interested in Computer
+Science and the way it can impact lives from my high school days. I hope to
+make a difference in the lives of people in the future. I have done several
+group projects in college and participated in various events as a team in
+hackathons and in sports events like basketba||,throwbal|. Each project or
+event i worked in a team taught me how to gel in and work together to
+achieve a common goal by putting aside interests or opinions which don't
+contribute to the common goal. I'm studying in my third year and yet to start
+my career. The project was to develop an app according to the speciﬁcations
+given. We were reviewed at each step and were given positive feedback. 50
+we proceeded along to complete the project. On our ﬁnal demo when our
+project was to be reviewed, we were criticised and were to told me to make
+signiﬁcant changes. Even though we didn't expect criticism, we took it as a
+Ieaming experience and understood the reason behind the changes that were
+suggested and even decided to incorporate those changes in our future
+projects. I will give an example of how my idea is needed and will make
+things easier and be a great advantage to the client. I will suggest the client
+an option to customise it according to his needs so that it will be more
+suitable for him. i will give a preview of the product to be developed so that
+the client can understand it more. I am interested in sports and try to play as
+many sports as I can. I like travelling and visit new places. I believe that it will
+bring a new perspective and meaning",3.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,0.0,15.0,1.0,0.0,IMT2013045,"I am student of |MTech batch. I like painting, dancing and travelling. Currently
+I have started reading ﬁction novels and its very interesting to read various
+books by different authors. I am a big Han'y Potter book fan. Other books
+which I liked are The illicit happiness of 0th I also interested in the area of
+Data Science. I like Machine learning and currently learning its basics. I am
+from a small town in Tamil Nadu from a place called Erode. I am currently in
+seventh semester and want to pursue my higher studies in the ﬁeld of Data
+Science. I like coding and participate on various online judges. I like watching
+sports more than playing. Yes. I was very careless when I was studying in
+school. My brother and I used to go to school in the same bus. My brother
+was in 1st standard. My mom always told me take care of brother in the bus
+and to have a look at him. As a daily routine I was supposed to check if my
+brother got into the bus or not. One day I was busy in chatting with my
+friends and forgot to check if my brother had entered the bus or not.
+Unfortunately that day he got late and missed the bus. After I reached the
+stop near my home I realised that he was missing. Then I panicked and told a
+lie to my parents saying he has dance practice and parents where supposed
+to pick him later. Later my parents found that I told a lie. They scolded f.
+Assuming I am appearing for the interview for the ﬁrst time in my life I would
+say that they should hire me because I am fresher and the biggest advantage
+will be that I have the talent to explore and try out new things. Any new
+innovation or discovery or any improvement cannot happen until we try all
+the best possibilities. So as I am a fresherl would make some mistakes but
+eventually that will help them in knowing what works best and what doesnot.
+Also failure doesnot demotivate me and my trust for knowledge and exploring
+the world will help to work hard for the company. It may not provide imediate
+reward but in a long run sweet fruits would be yield. My best so far has to
+been to start a project in reinforcement learning in the area of Machine
+learning. It is a highly researched ﬁeld. It has been the best move because it
+gave me a feel of what is happening currently in the ﬁeld of technology and
+how advance the machines and computers have become. Also reading
+articles the site called Medium gave me picture of how to apply these
+algorithms of ML in various places. Reading those articles gave a practical
+picture where I can apply them and ﬁnd interesting stuff. It depends on
+situation. If I feel that I am interested in some work and it involves risk in it
+then I would deﬁnitely take the risk and go ahead with the work. But if the
+work or task doesnot interest me then I would probably not take the risk
+involved in it. Sometimes if I feel that the work will help me to explore
+something very new and rare thing then I would take the risk. I am a very
+straight forward person. I usually dont hide things and tell the truth most of
+the times. In this process of telling the truth and being frank people ﬁnd me
+rude and arrogant. They criticize about me saying I dont how to speak",5.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+39,0.0,4.0,0.0,1.0,IMT2014003,"Hello!
+
+I am Sahithi from IIIT Bangalore. I hometown is Guntur(Andhra Pradesh).
+
+I am pursuing my Engineering 3rd year. I would like to be respected rather
+than being liked. 3 days back I decided to prepare my breakfast in my room
+i.e cook maggie. I never cooked anything before. It was a utter failure. nan.
+The fruits of the job like improving my skills, to improve my self esteem. I
+feel that I am not a very creative person",2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+40,0.0,9.0,3.0,0.0,IMT2014017,"Hi,I am Niharika from IIITB . I am from Hyderabad. I am a very ambitious
+person.| like to explore and learn things that I don't know. I like to be myself. I
+love to work with people of different regions. I would like to become software
+engineer. I was about to make this mistake in my ﬁrst year of engineering. I
+was so worried about friends and I was a bit lonely so I thought of quitting
+IIITB and I thought to join in some ordinary college. But, if I would go and join
+there then I would just be a normal person. I would be getting placed in a
+normal(ordinary) company etc.. After I realized that it is a mistake then I
+joined ba TO IIITB. I personally think that time is precious and once you loose
+it then we can't get it back. So,as long as I am in working environment I will
+try my best to do some productive work. It is not like you should continuously
+work without engaging with people while you work. The time that I will try to
+spend in engaging with people should be minimal so that It my work doesn't
+get affected by it. Yes, I think this job will deﬁnitely help me to reach my few
+goals in life ( may be not completely) . Basically I would like to work because I
+always wanted to be a good engineer and I wanted to make my parents
+proud of what I am doing. As, I said before I am very curious and ambitious
+person so, I like exploring things. So,I think I would get good knowledge of
+what I will be doing. So,it will help me in learning new things and achieve my
+goals. I ﬁrst try to ﬁgure out what the actual problem is. Then if I think there
+is something wrong with me.Then I try not doing some things that will repeat
+the same problem.
+
+If I have problem with my colleagues then I try to sort it out by taking them to
+a picnic kind of things to get their misunderstandings out.
+
+If all above doesnot work then I will go to my team leader and then report the
+issue that there is something seriously wrong and I am unable to ﬁgure out
+what it is. I will deﬁnitely be a good person. I will help my people around and I
+see I don't hurt any one. I will not repeat the same mistakes again and again.
+I would probably enjoy my engineering life again",7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+41,0.0,5.0,0.0,0.0,IMT2014018,"I like learning new things. I love to read,sing and sketch. I like helping others
+too.
+
+I am very hardworking and try to do the work given to me efﬁciently. I try to
+not repeat the mistakes i have done previously. According to me, the
+deﬁnition of success is that you what to do something and you put your best
+effort in it. Your attempt might not be successful initially but it is your effort
+that counts. I think that you should always take the risk and put your
+complete effort in something you strongly believe.
+
+I always try my best to do achieve something I want to do.
+
+Though my attempt might result in a failure, it's the failure that teaches me a
+lesson. Hard work is working very hard without considering or thinking
+properly. Blindly working on something without proper thinking.
+
+In smart work, you think before you do anything. When my co-worker wasn't
+doing his share of work, I tried to convince him that he must do his share of
+work as he would Ieam something from the experience. The outcome was
+that he tried to more than the work he had done previously but still he didn't
+do the complete share of his work. I will try to convince him and show him
+why he is wrong. I will try to come with up a logical reason, so that he can
+understand my point. I would be an asset as I will put in my best effort. I will
+do the share of work allocated to me efﬁciently. I will try to create a friendly
+environment within the organization",6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+42,0.0,8.0,0.0,0.0,IMT2014023,"I am Harsha, currently studying in iMtech 3rd year in IIIT Bangalore. I am from
+Hyderabad.
+
+I have interest in knowing new things and understanding things which i learn.
+My hobbies are listening to music and watching movies.
+
+I generally believe in being positive and accept things as they are. I am a
+jovial and happy person. I generally do not link both of them. When i am
+working on any thing i try to focus much on that and complete it by keeping
+milestones and targets. When i am not working i make sure to enjoy as much
+as i can by going out or having a good chat with family and friends. So
+whenever i have a holiday or have no work i keep myself free from doing any
+other work related things and do my personal stuff. I tend to break my work
+into small parts and try to make them simpler by working on them one at a
+time. I tend to take a 5 min break after each target so that the mind is
+relieved for some time and not panic myself thinking about the work. I keep
+deadlines for each such target and try to complete it correctly and not
+hurrying and making it worse. If the work is not ﬁnished in the deadline then i
+will complete the wor1< ﬁrst and then sleep. I would like to learn dancing and
+playing a new instrument. I have been fascinated by music related stuff as it
+brings joy and lets me forget about any issue and makes me calm. Dance
+also increases concentration and ﬂexes the body which is good for improving
+the inner and outer personality. I am generally good to everyone and try to
+make them and myself happy about any stuff we talk about. When i have any
+quarrel or ﬁght with anyone i excuse them after sometime. But the other
+person sometimes take advantage of this quality of mine and starts or makes
+a new issue and ﬁghts back. In the second and the third semester of my
+college my CGPA has decreased due to few subjects as i was not interested in
+them. I was not happy with that but tried to calm myself and concentrate on
+the semesters that followed and focused to understand each concept and not
+go through it. This helped me nicely for every subject in the following
+semester and helped me increase my CGPA very well",3.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+43,0.0,9.0,0.0,0.0,IMT2014024,"I am Indu Ilanchezian. I am a student in l||T— B pursuing iMtech. I am currently
+in my third year. I am passionate about computer science, particularly coding,
+algorithms and machine Ieaming. I am ﬂuent in English, Tamil and Hindi. I am
+a consistent performer, hard working and god-fearing. My hobbies include
+reading novels and listening to music. In one of the projects that I was
+assigned, when a co—worker wasn't doing her share of work properly, I tried to
+advise her to complete her share of work. I tried to help her out if she was
+facing any problems. But when the problem persisted and since she lacked
+intersest, I tried to let my higher authorities know that a group member was
+not co-operating. I am a consistent performer and hard worker. A person from
+outside has varied experiences and has higher chances of improving certain
+aspects of an organisation than a person who has stayed on in an
+organisation for a long time. An organisation should hence always be open to
+outside people. According to me, job satisfaction, deﬁnitely, matters more.
+When we love the work that we do, we can deﬁnitely do it better. This in turn
+will get us accolades and appreciation. This, in my opinion, can never be
+compared to a high salary. If a situation arises in which I disagree with my
+boss, I would act according to my conscientious. If I believe that my views
+are justiﬁed, I will try to convince my boss. I had once assumed a project to
+be too easy and had started it a bit late. It turned out that the project was not
+actually that obvious and we were not able to complete it. The learning was
+the",4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+44,0.0,18.0,1.0,3.0,IMT2014028,"Hi. I am K.Abhigna. i am currently pursuing an imtech course in IIITB. I am
+here to give a model online interview test. I did my schooling in Hyderabad.
+My hobbies are singing, playing badminton, playing keyboard. My aim is
+become a data scientist. Before joining in IIIT-B, i never had any experience in
+coding. I am from a non— computer science background. initially i found very
+difﬁcult to understand the concepts in computer science and required to do a
+lot of background work. After struggling for a while, I learnt how to code
+better with help of some good reference text books, youtube tutorials and
+also with the help of a bunch of friends. At present, i can conﬁdently take up
+any challenge and give a shot. To be frank, i hadn't done anything like rote
+Ieaming for the interview. ijust gave a thought about my strengths and
+weakness. Though I get nervous to face an interview, i convince myself that it
+would help me and the panel members to identify our ﬁeld of interests and is
+just an interaction session for that purpose. Interactions with alumni and
+other seniors from the industry wolud also help to crack the interv. i faced
+criticism when i was in my ﬁrst semester. A group project was assigned to our
+group by out ITP professor. Our group decided that we would explore on Web
+Development and present it to the whole class. Since, i hardly knew anything
+about Web Development, i chose an obsolete topic. On top of that my
+presentation skills were very poor. So facing the whole class was very
+embarassing to me. Eventually i ended up spoiling the presentation. That was
+the time when i was criticised for my work. Music! From my childhood to till
+date, the most important thing to me is music. Whenever i feel lonely, i may
+prefer singing or listening to music. I like any kind of music irrespective of
+many languages. most of the times i can connect to any kind of music. i also
+play keyboard. If i wouldn't have taken computer science i might have taken
+up a profession related to music. Apart from that, i also love swimming. Every
+summer, ijoin swimming classes and end up leaning. I had a goal before
+pursuing b.tech. i wanted to do an MBA from IIM or any top notch university
+abroad. But, after my JEE results are out, my family and i decided to take up
+imtech course in IIITB. Since, it is a dual degree course, i didn't ﬁnd any point
+in doing an MBA because the whole purpose ofjoining a research oriented
+institution is defeated. So, i dropped the idea to pursue MBA and started
+exploring more options after an imtech degree. At present, i love my ﬁeld and
+still there's a lot more to explore and get connected with it",0.0,1.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+45,0.0,13.0,3.0,0.0,IMT2014031,"I am Mahati Bharadwaj. I am a student of IIITB. I hail from visakhapatnam.
+Apart from being a student I also volunteer with the Art of Living Foundation. I
+love Indian classical music. I like to lead a very simple life. I admire nature a
+lot and like to protect it. I joined this job to get experience in my ﬁeld of
+interest. It will help me become a better person as I will get to interact with
+different people with different backgrounds and highly qualiﬁed. It will help
+me to learn things that I have to improve upon. This will also improve my
+communication with people. This is very close to my goal. It was in my ﬁrst
+semester when we had to submit our project and give a demo that next day.
+The day before our demo, we did not progress with even 10 percent of our
+project. It was a team work and we were new to such a project. All of us
+divide thew work and we sat the entire night together doing the work and
+completed the main part of our project by 6AM. All of us encouraged each
+other to keep ourselves active the entire night. The next morning we sat
+together and ﬁnished the remaining part of the project and gave our demo.
+Then we went back and took rest. This gave us immense satisfaction as we
+were very successful with what we did. Once we had to organize an event in
+our college. It was again a team work. We sat for a week together and
+planned to organize that event. But due to lack of coordination the event was
+not successful and we felt very bad. The day of our event there was miss
+communication and chaos. As a team we failed. It was for the ﬁrst time, there
+was such an event and it was not that successful. If only would I get a chance
+to relive my last ten years, I would have enjoyed my life in a better way. I
+would have gone to more nature, adventure camps. I would have made a lot
+of mischief in school to make memories. I would have Ieamt more music. I
+would have spent more time helping the needy. I would have explored new
+places. I would have watched a lot of movies. I would have made myself into
+a better artist. I would have improved my GK. I would have Ieamt better
+coding. As said ‘age is just a number‘. If the person who is younger than me is
+more knowledgeable, I would like to work under him/her. If that person has
+more experience than me, I would take his/her help to become a better
+person. If there are situations where he/she cannot handle that situation,
+being elder I would deﬁnitely give a helping hand. Sometimes dealing with
+that person would also depend upon the situation we are facing. I would
+expect mutual understanding between us",11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+46,0.0,6.0,0.0,0.0,IMT2014038,"I am a typical student who is more into computer science. Well, most of my
+friends say that I am a geek which I would not refuse to accept. I love
+programming and try to keep my Ieaming curve steep. I believe in the quote
+There are many people doing more hard work for the same thing you do."" Sol
+do a lot of hard work and try to utilize my intelligence to the core. I am not a
+person who gives up easily and displays a lot of patience. My character is
+strongly built on the basis of self conﬁdence and morality. I had faced various
+situations and I have tasted success in every single one of them."". There is a
+quote which goes as, The body hates change"". Well I have seen the quote few
+years back and realized that our mentality is resistant to change and if we
+are able to realize that try to change that then we would be successful in the
+our ﬁeld. I am always open to change and I wake up in the morning awaiting
+changes to my daily routine. That is why I am not a big fan of routine things
+such as a static time table.''. There are quite few things regarding me that
+most people criticize about.They are listed below.
+
+1.Patience. (I have a lot of patience.)
+
+2.Less ego.(Too less.)
+
+3.Acting silly in few situations.
+
+4.Not thinking twice before doing few things.
+
+5.InabiIity to stick to a particular schedule.(As I told you in the previous
+answer, I do not like schedules.)
+
+6.Getting too excited for small things. My primary ambition when I was a little
+younger was to become a movie director. I think I would have gone to director
+classes to pursue my ambition. I would also like to exercise everyday and be
+more ﬁt. Save more money. Reducing the amount of time that I have wasted
+which was literally unnecessary. Study more books related to computer
+science. You should not hire me because I am a very cautious person when it
+comes to doing other person's work. So if you give an inﬁnite amount of time
+to test your software,etc., I would literally do it for you. I might be hard
+working but I am also lazy which is a quite different combination but I would
+still get the work done. I think too much about a particular situation or a
+problem. So if you are expecting a hundred different answers/solutions for a",0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+47,0.0,9.0,0.0,0.0,IMT2014040,"Hi, my name is Pratheeksha. Currently a student of IT, I am a coding
+enthusiast. I like Ieaming about new things. In my spare time I enjoy reading
+books and watching movies. I play the veena and also love dancing. As far as
+I am concerned, job satisfaction is more important. I don't think a huge salary
+alone can keep one satisﬁed with one's job. If we don't enjoy what we are
+doing then there is no point in doing what we do and there's no justice done
+to the work either. I believe I can handle pressure quite well. The pressure of
+meeting deadlines or quality standards always encourages me to strive for
+betterment in whatever it is that I do. I don't think pressure will affect my
+performance too much. I think the ﬁrst strategy that can motivate people is
+the satisfaction of delivering quality product. I believe that there is always a
+scope for improvement. This strive for improvement can also act as a good
+motivation. Ultimately the promise of contributing even in tiny ways, to
+something huge that can someday make a difference in the world will never
+fail to motivate people. I think sometimes I try to be too much of a
+perfectionist. I can never say I am fully satisﬁed with the work I have turned
+in. I always seem to look for ways to improve my work. This is a major ﬂaw I
+see in myself and probably the only reason why you shouldn't hire me.
+Sometimes people tend to show a friendly demeanor towards you. Once I
+really believed a colleague when she seemed to be genuinely interested in
+working with me for a group presentation in one of our courses. Over time I
+realized that she was just using me to have discussions and get hold of my
+ideas to use in her own part of the presentation (which came before mine). I
+realized that I had made a huge mistake in judging her intentions",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+48,0.0,17.0,0.0,0.0,IMT2014042,"I am Raghav Bhatnagar from Gurgaon, Haryana. I am a student of the
+integrated Mtech course at the international institute of information
+technology, Bangalore. I am a technology enthusiast and love to be in touch
+with the technological advancements which helps me in adapting quickly and
+effectively to all the changes that our vast ﬁeld undergoes. I also love web
+development and creating new applications to make the lives of people
+better. I aspire to be someone who can spark change and can help as many
+people as possible through technology. I am inspired by the work done by
+Elon Musk and other such visionary as I feel that the future belongs to those
+who can be the change and can implement and act upon their dreams. I
+believe that my biggest strength is my ability to gel and mix well with people.
+I have a lot of experience of working in teams and groups as well as heading
+them. My adaptability is another one of my strengths as I keep myself
+updated and can adapt quickly. This comes in handy in a lot of places,
+especially in a ﬁx where we need a fresh outlook. I also don't loose my cool
+easily in crunch situations and have been a part of many organizing
+committees and have faced difﬁcult situations.
+
+My biggest weakness id say is that i become a bit naive and headstrong. Both
+these form a dangerous pair but along the course of time I have come to
+realize that these weaknesses, when harnessed properly and at the right time
+can form your strength, especiallly while dealing with people and negotiating.
+The toughest decision I had to make was to pursue engineering over
+archeology. I always had a knack for both the sciences and the social sciences
+and had a particular interest in history and astrophysics. So at the time of
+choosing the stream I wanted to take, I was in a dilemma. That was probably
+the ﬁrst time I had to take a decision that would go on to shape my life. I took
+my time and analyzed both the options taking various parameters into
+account. Mainly the feasibility, scope in the country, future prospects and
+also the probability of success in each of the ﬁelds. I concluded that
+engineering had a better chance at all of these over archeology as the scope
+of archeology in the country is meek at best. This made me realize that no
+matter how hard the decisions may be, we have to think with our brains and
+make the right decisions rather than falling for the folly of the heart. If I learn
+a new skill that will probably be hunting and outdoor survival. I love being
+outdoors, going for treks and for other such adventures where I am nowhere
+near the civilization. I have, till now done this with a group of people but
+would like to do so alone now. The only thing stopping me from doing so is
+the fact that I don't have the basic survival skills needed to stay alive, even
+away from the civilization. The skills i want to learn are mostly foraging, using
+ropes at tight spots, building ﬁres and setting up camp on my own. These
+skills come in handy when we go out into the wilderness and interact with the
+nature. In this respect, Bear Grylls is my mentor/ role model as I have",6.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+49,0.0,21.0,0.0,1.0,IMT2014045,"Hi I am vineet. I am simple, good and smart. I like meeting new people. I like
+watching movies, tv shows, youtube videos,etc. I like experimenting on new
+things. Recently I started working on Raspberry Pi and then I could stop
+myself from experimenting on it. I like hardware stuff more than software. I
+am now a undergraduate student. One day I dream of working in the Indian
+Defence Forces. I hate people who doesnt treat people with respect and those
+who are completely biased. I am casual and friendly. I might not be predictive
+in the ﬁrst sight, but as I become close I become predictive. I am quite a push
+over. I value friendship.
+
+Thank you. Me being obsessive over cleanliness. Sometimes about me being
+angry. They criticize mostly on me trying to be a leader in everything and
+taking responsibility. They criticize about me helping people though my help
+isnt valued. I am often criticized for being over sincere. I was inspired by a lot
+of people in my life. The ﬁrst being my parents. My mom and dad inspired me
+a lot in every step of my life and they still keep doing it. They taught how to
+handle things, how to treat people, how to handle failures (when I failed JEE
+twice, they taught me alot how to be brave, how life would be and all), how to
+manage myself ,etc. I was also inspired by Abraham Lincoln, for being a
+great, sincere leader. I was also inspired by Hitler and Napoleon for being
+brave and trying to lead people into better things(in their sense better). I
+would ask them to treat the work as a real life problem, in that sense, they
+feel their work helps someone somewhere. I would ask them to mingle
+among themselves, as a friendly working environment motivates to work
+peacefully. I would not have restrictions, but would ask them to take their
+time to get the work done, but the work should be perfect. I would ask them
+to treat work as a friend, in that way the team will not feel forced to work.
+During the last spandan. I was a carrom SPOC and was also organizing the
+treasure hunt, which is on the third day. On the ﬁrst day, I had a lot of work in
+carroms, calling people, organizing games, getting the resources, etc. I
+couldnt participate in other events as I was having a lot of work. I can leave
+the work as one of the other SPOC did, But i feel responsible for the job, sol
+couldnt do it. There was meeting before the spandan ﬁrst day for treasure
+hunt, where we discussed about the places where clues can be hidden. At the
+end of the ﬁrst day, as soon as I am done with carroms for the day ( During
+the day I did little treasure hunt work), I started working on the treasure hunt
+with two other people. We wrote clues, and it was almost 2 or 3. I went back.
+And on the second day after carroms I wet back to treasure hunt. and worked
+again. I basically love the work so I didnt feel it hewavy. I am a risk taker.
+After I failed to c|earJEE ﬁrst time, though I had some other good college
+option, I risked taking a year drop. After an year, I failed to clearJEE again,
+but ended up in a better college which I wouldnt have got the ﬁrst time. I like",7.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+50,0.0,8.0,0.0,1.0,IMT2014047,"My name is Aditya. My Roll number is IMT2014047. I like to play table tennis. I
+like watching Tennis. I am a huge fan of Roger Federer. I am interested in
+doing my specialization in domain named Networking, Communication and
+Signal Processing. I-""Irst I want to have my imtech specialization in
+Networking, Communication and Signal Processing. Laterl want to do my PhD
+in the mentioned specialization in India or Switzerland. Later I want to
+become a Professor or Research oriented position in some MNC. I want to
+learn the following new skills.
+
+1). competitive Programming,
+
+2). Machine learning,
+
+3). Data Sciences.
+
+My main aim was to have some basic knowledge in almost every topics and
+have deep knowledge in a speciﬁed topic. According to me, Hard Work refers
+to achieving/completion of some task with Honesty.
+
+According to me, Smart Work refers to achievement/completion of some task
+in a way different than usual way (usual way refers to a way most people
+know that it can be achieved in a particular way). My example of creativity is
+to accept new ideas and support them created by others like me and my
+friend did a project regarding percentage display of battery using arduino uno
+which was my friend's creative idea. Similarly I was current working on a
+creative project regarding solar energy harvesting and pollution monitoring. I
+will actually feel regarding that inside me and laterl will agree with it thinking
+that anything happened will be good for us as long it does not cause harm to
+other human beings",2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+51,0.0,8.0,0.0,1.0,IMT2014050,"I am Shyam, currently studying at |||T—B.| am a very enthustiastic person and i
+always have a lot of self conﬁdence.| am interested in computer science.Love
+playing games and competitive programming. Coding and Cricket are the
+only two passions that i have. First thing,| will be doing a job that i like to
+do,which is one of my career goa|s.Next is always being cha||enged.| am
+getting these two in this job which will give me happiness and money,which
+are my ultimate goals. I like to work when under pressure, every time it would
+be a new cha||enge.| stay more focused and determined when i am under
+pressure.
+
+so i do better when under pressure and it would not affect my performance.
+|ncentives,|ike a day off or party and motivational speeches , to make them
+realise who they really are. Because the person who is eligible for being
+promoted is not as good as me.|f he was better then he would have been
+promoted",0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+52,0.0,4.0,0.0,0.0,IMT2014055,"i am Sudeshna Nag. I am studying masters in IIIT Bangalore and i have a
+passion for database systems and management. My age is 20 and i like
+Painting, drawing, singing, dancing,coding as well. I also like playing chess,
+carrom, badminton and other sports. Also rubik's cube interests me a lot. I
+see myself as a successful woman engineer in the entrepreneurial market. I
+would like to see myself as very successful person and woman in the world.
+My wish is to work with Google and develop new things. ‘ﬁll now i think my
+life has been easy enough for me as before a person steps into a corporate
+world, he knows nothing about real life challenges and life changing
+decisions. I think as soon as i graduate and enter the job market, the real life
+changing situations would arrive. I would rather be liked before being
+respected as a person would automatically have respect for you when he/she
+likes you. I think i should be hired because i am energetic, passionate about
+work. I would rather live my work rather than just work. Work gives me
+power, i can learn many new things and yes, i always like proving myself in
+the tasks which are offered as a challenge. I would like to see my company be
+at high levels and support the work culture of the company and would always
+be loyal. I would like to pursue Masters in Business studies later in life as i
+want to become a business strategist and market analyst as these ﬁelds
+interests me a lot. There are lot of case studies done in business
+management, and hence i would like to apply for higher studies in later phase
+of life",2.0,0.0,0.0,9.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+53,0.0,7.0,0.0,0.0,IMT2014056,"My name is Suprgya Bhushan. I am a happy—go—|ucky and fun loving guy. I like
+to be precise and brief. I love to do any productive wprk which builds up my
+personality. Also, I like to utilize the time fully. I love my laptop - cannot live
+without it. Like I said before, I like to utilize the time at work to the fullest.
+And if anything is productive and building up my knowledge and personality, I
+am ready to give a sensible amount of time for that particular work. An asset
+to the organisation, in my opinion, is that person who is dedicated to his
+work. Also, a man/woman who has good social skills can be an asset to the
+organisation. Team-work and cooperation is necessary to adjust in an
+organisation. I may have all these qualities. When working in a team, I try to
+be one who can do all the work or atleast have enough knowledge to do that
+particular work. By doing this, I do not have to depend on anyone. And if a co-
+worker is not doing his/her fair share of work, I let them know and motivate
+them to do the work. However, I will be willing to do his/her work in
+background without letting him/her know so that the quality of the work is not
+messed up. The workload during my Second Semester and Summer Vacations
+2016 was pretty much heavy. However, I like to be busy nowadays. So I do
+not think a workload is a pressure, but the means to go forward and learn
+new things. However, we need to manage the workload due to a daily
+routine. ‘Fme management is the necessary step here. And also, I have this
+tendency to ﬁnish up the work of my interest quickly so as to not mess up the
+work and team progress. According to me, job satisfaction covers all — the
+quality and quantity of work, salary, company environment and others. Yes,
+cooperation and adjustment is needed in a company",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+54,0.0,12.0,0.0,1.0,IMT2014058,"I am Tanya Shrivastava. I am from Bhopal, and am currently pursuing my
+BTech. degree in Information Technology from the International Institute Of
+Information Technology, Bangalore. I want to pursue higher studies in NLP
+post my graduation. If I could relive the last ten years of my life, I would make
+sure not to make the same mistakes I did. I would like to show a little more
+behavioral maturity, and not shy away from opportunities. I would enjoy
+more, and have more conﬁdence on myself, and probably have a more
+positive approach towards life in general, realizing that the little things that
+seem to matter so much at that point are actually only small hurdles when
+you look back later. I am a hardworking person, who believes in leading
+without title and by example. I believe in bringing my team together and
+achieving beyond the goals set by the company. I am good under pressure
+and don't yield to stress, and have the capability to motivate my team to do
+the same, I have had prior experience of management by being a part of
+student councils both in school and college, and have developed the time
+management skills required in the process. I will be a loyal employee, and will
+rise up to the challenges given to me. In order to convince a client, it is
+important to see regarding which area they have the most doubts, so that
+that knowledge can be used in persuading them. Apart from building a good
+case about my ideas, and selling them to the client by informing him how the
+ideas will help achieve both short term and long term requirements and goals
+and why they are the most preferable way to go, I will also address the
+apprehensions and doubts of the client, and try to convince him by making
+him satisﬁes and reducing his possible fears. Conﬁdence is when one is aware
+of one's capabilities and knows one's part in the team, while overconﬁdence
+is where arrogance starts setting in, when one becomes so sure of oneself
+that it borders on overestimating one's capabilities. Conﬁdence is what
+motivates a person, it is when a person realizes he is a part of a team and
+does his part well by believing in himself, and that in turn beneﬁts the team.
+overconﬁdence on the other hand is deteriorating to both oneself and one's
+team in the long run. Although I am still in college and have not had an idea
+of working for a company prior to this, my best career move so far, as far as
+technical ground is concerned, would have been to have made a strong
+foundation of both theory and practical knowledge of my subject by working
+on a number of projects and researches. I have also tried to keep in touch
+with diverse subjects in my ﬁeld, that has helped me to try and have a broad
+knowledge base. Non academically, my best move would have been being a
+part of the Student council in my college, that has helped me develop a lot of
+interpersonal skills, organizational and leadership capabilities, and a lot of
+other personal and professional skills",4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+55,0.0,14.0,0.0,0.0,IMT2014060,"I am Armitha.| am in 3rd year of Imtech degree course of |I|TB.| will get upset
+when something doesn't go according to my plans.I like dancing and listening
+to songs.I like hanging out with my friends and I also love cooking. My family
+has mostly inspired me especially my father and my aunt.My father from the
+past 25 years does his job very well he goes in mmg at 9 and returns by 10 in
+the night,but he is never tired of it and never complasins about it.He is very
+dedicated to his work and punctual.For him work comes ﬁrst.My aunt, inspite
+of having ﬁnancial problems and not very good education she struggled to
+make a good platform for herself and now she works in one of the most
+prestigious company. I am an organized persom.when it comes to studies or
+work, i will plan my schedule and completes it according|y.Not only work or
+studies,but i also plan my regular activities and try to complete it accordingly.
+i am more dedicated and i will be working not only during ofﬁce hours but
+also beyond that because i will be always thinking about the work that has
+been assigned, till it get completes. I love cooking(Mostly indian) and
+shopping.I like to do social services (spending time in orphanges). I love to
+attend parties.Even like to dance but not professional one.| like spending time
+with the kids especially children who are below 1 year. I had to make a
+presentation for a course in my sem and along with it there are other works
+that have submitted on presentation day. Inspite of so many works, i had
+managed to present it, but at the end sir has asked some question which i
+was not able to answer.On the day, Infront of whole class sir pointed out that i
+didn't prepare well for the presentation",2.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,2.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+56,0.0,14.0,0.0,1.0,IMT2014064,"I am v.keerthichandra of Imtech 3rd year and i live in town named
+khammam.| like playing tennis and my hobbies are watching movies and
+cartoons.coming on to the academic part i like coding and want to pursue a
+specialization in algorithms especially Machine Learning. I have lots of
+outside interests but on top i love playing tennis.| like watching comedy
+shows and fantasy based movies.| like hanging out with friends.I like bike
+
+riding and watching fl race.| like to travel but iam scared while iam travelling.
+
+I have a great interest in coding and machine learning and i wanted to do
+some research in Machine Learning so there is a lot of chance for me to join
+your organisation and hope we can achieve something big.So in this way i
+think i can be an asset to this organistion. Pressure affects most of our
+performances but actually handling the performance under pressure is what
+we mainly does in our 5 years of the study at the co||ege.So by the end of the
+5 years i deﬁnitely think that I will perform well under pressure.You basically
+need to have someone who pressures you on your work but you should
+never feel pressurized while working. I do something different only ifi know
+what is important after 10 years . So basically i might have enjoyed a lot and
+started reading some novels and i will be concentrating on only the subjects i
+loved most leaving everything else behind.|f possible i will be practicing to
+play tennis in olympics. It was a time when i was a beginner at coding and
+one of my friend gave me a task to build UI for his app|icati0n.I ended up
+giving him a UI which was not so good.He then criticized me infront of others
+and i felt embarrassed and from then I started to enhance my abilities in
+coding.Now i feel so happy for that incident",1.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+57,0.0,14.0,2.0,0.0,IMT2016008,"My name is Satvik. I am 18 years old born in 1998 , Bangalore, India. I am
+currently doing iMTech program at IIIT Bangalore. My main interests are
+programming and mind puzzles like rubix cube. I am quite a passionate
+coder. I enjoy roller scating and swimming. My favorite TV shows are game of
+thrones, person of interest, blacklist and da vinci demons. I am a pretty nice
+guy, quite helpful. Everyone ﬁnds me friendly. Sometimes I can be quite
+cranky too. I don't game much, however i really enjoy mini militia. I believe
+my skill sets are complimentary and useful. One of my major strengths is to
+accurately predict a person's potential. Therefore I will be an excellent team
+player and coordinator. You will ﬁnd that I am a loyal employee. Though I am
+in the technical ﬁeld, I do have some experience and knowledge in business. I
+believe that you will ﬁnd me to be the whole package. My mother inspired me
+
+Her approach was always better than anyone else's regarding any matter.
+May it be academics, relationships or cooking. She always encouraged me to
+think out of the box and not stay within the lines. Because of her effort i was
+always ahead of my peer group. This instilled interest in me. And after
+interest I got inspiration. Moreover she gave me a good outlook of life and
+how to live it. I really hope to be like my mother one day. Yes and No
+
+I believe true success is achieved when one is satisﬁed, content and happy.
+
+I consider my self successful in some areas like career, professional life etc.
+However I am yet to be successful in areas like social life. But I am not so
+worried because I feel I am becoming more and more successful day by day.
+There are a lot more areas in life I am yet to explore and ﬁnd happiness in.
+Therefore in conclusion I think I am quite far from success but I will get there
+eventually. Yes
+
+My ﬁrst love
+
+I regret falling in love. It destroyed me for quite sometime as it worked out
+very horribly. I have not yet completely recovered from it. But its probably for
+the best. It thought me many important things. Now I am much more careful
+and smart. its probably because of that I started working very hard and I am
+who I am today. Maybe its all for the best. Still its one decision I regret in life.
+The biggest challenge so far has been ﬁtting in. When I was young I had
+absolutely no problem regarding this matter. I could easily make friends with",0.0,0.0,0.0,1.0,0.0,0.0,2.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+58,0.0,29.0,1.0,1.0,IMT2016012,"Hel|o,l am Mohana Datta and i am from Hyderabad.l am a great fan of Hans
+Zlmmer and i really love his music.| love to watch movies which come under
+rom-com genre.| love reading nove|s,my favourite novels include Harry Potter
+series by j.k rowling, Not a penny more not a penny less by jefrey archer,And
+then there were none by Agatha christie.| love Claude Monet's paintings. and
+i like to watch Basketball. 1.F|rst thing i would let my team know is that
+results dont come overnight and we really need to work persistently to
+achieve them.
+
+2.|ts ok to fail but its not ok not to learn.
+
+3.There is no shortcut to success and one has to pass through every obstacle
+he faces to achieve it.
+
+4.lf we were in a competition,i would tell my team that our success might not
+really be in our hands but what we can do is to give our best shot for it.
+
+. First beneﬁt we would get by doing some job is expen'ence.Expen'ence is the
+one which sets us apart from others.|t helps us know how the industry really
+works what kind of obstacles we face and how we can prepare to ﬁght back
+those obstacles.
+
+Second beneﬁt is that the job provides us an oppurtunity to develop our
+ski|ls.Without skills we cannot achieve what we wanted to.
+
+By doing a job we get to interact with different kinds of people,and we can
+know different kind of perspectives on a topic which helps us in
+understanding how others think. I used to cheat in exams when i was in high
+school.Though i used to get good marks i never had a feeling of
+satisfaction.Then i understood that its because of gui|t.worst thing a person
+would suffer is by gui|t.Then i realised that if i copy it may give me beneﬁt for
+short periods like getting a good grade but in long term it affects us really
+bad.
+
+After realising this i started not to copy,it was difﬁcult in the ﬁrst unable to
+get good marks,a|ways ﬁnding reasons to copy again,but i kept on with my
+motive not to copy and from that time i never tried to copy. When i was in my
+high school,and when i had to prepare for my engineering entrance exams",0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,10.0,0.0,5.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+59,0.0,10.0,2.0,0.0,IMT2016018,"I am puneeth. I study here at |||tb.| am from NELLORE a city int the state of
+ANDHRAPRADESH.My course here in |||Tb is CSE which is of 5 years.The
+course is called iMtech.my father and mother ,both work as government
+employee in LIC OF INDIA. I am writing this test to improve my grammar skills
+and vocabulary. I am actually more interested in salary than job.but that
+doesn't mean that I am not interested in my job. My ﬁrst preference goes to
+salary and then job.genera|ly good salary means a good job in a big company
+but the burden is more.| like to work in big companies even when there are
+loads of work.job satisfaction is obtained when every aspect of work we do
+satisﬁes us which is impossib|e.so,it is salary that matters more for me. I
+have a very big problem in my English assignment.The group that has been
+assigned with me are non—cooperative.they do not discuss with us and the
+group leader and one more person take their own decisions.The group leader
+doesn't even check our notes and tells directly to give presentation.we once
+were told to stop our speech in front of the whole class.| till now couldn't
+overcome that situation.| will try to overcome it by expressing my views to
+them. I failed to study forJEE advanced exam by not preparing properly in
+the crucial last month.I was distracted by my friends and as there was no one
+there to guide me I couldn't write the exam we||.|n the last 5 days I thought
+the preparation I made was enough,which was the wrong decision I made . lfl
+had reviewed anything I could have gained some more marks.Even though
+my parents warned it was my carelessness that brought me into this position.
+Sometimes I regret the feeling of not expressing my views to anyone.| don't
+like to hurt the feelings of someone and take on the guilt of them.| want to
+tell them on their face but couldn't do it.| regret that feeling so much.That
+kind of decisions I make every time in those type of situations , I regret them
+a lot.| tried to change myself but couldn't .Those are the decisions I regret the
+most. When I was small I used to consider the myself most unluckiest
+person.But later on I realized that there is nothing called luck but, it is the
+state of mind in which we see‘ If we think positively everything seems to be
+lucky but ,in the wrong way every thing is unlucky.I try to think positively and
+think every thing is lucky",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+60,0.0,25.0,0.0,8.0,IMT2016023,"I am tanmay jain. I am from bhilai, chhattisgarh. i completed my schooling
+from Delhi Public School, Bhilai. I like to play badminton and i also like
+swimming. I also have a keen interest in Ieaming programming languages. I
+have also developed a water level sensor system for my society in bhilai
+which involved software programming and hardware assembling.
+
+I also like to interact with people and make new friends. I have absolutely no
+problem working under a person younger than me till i know that i can gain
+even a small bit of knowledge from him/her. the only criteria i want is that
+he/she should have deeper and more knowledge than me so that i can Ieam
+new stuff and gather better experience from his/her work. Apart from my
+studies, i want to visit new places in the world. I also have a diehard feeling
+to go on a roadtrip in spain just like the movie zindigi na milegi dubaara.
+
+I also wish to develop games and other software in computer science. Apart
+from these i also want to continue with building various others stuffs like the
+water level sensor i discussed about in my intro. thses electronic stuff
+fascinate me a|ot!!. hardwork means we put in all our efforts to every thing
+that we need to do without prioritizing them while smart work means
+prioritizing our work on the basis of what we are actually doing into various
+subparts and then deciding how much time and effort do we need to put in
+each of these subparts.
+
+But this does not mean we forget hardwork while focusing on smart work.
+hardwork is required but in a smarter way.... this is the key idea of smart
+work. when i got to know people around me here at iiitb, i met a lot of people
+and one of them used to sit quietly in one comer without interacting with
+anyone. he was always studying and i thought of him as a bookworm who
+does not know how to enjoy. but at the freshers party, he was the one who
+enjoyed the most. he danced with everyone, talked to me and my friends as
+well. next evening he also came down to play badinton and he was very good
+at it. so this made me realise how wrong i was to judge him without knowing
+him. depending on what problems i have, i will seek for the proper personnel
+and then discuss the problem with them. depending on how severe the
+problem is, i will take necessary steps like if it is a minor problem i will
+probably drop a mail and if it is a seriousissue, i will go and talk to them
+personally",3.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+61,0.0,19.0,1.0,0.0,IMT2016025,"Hello Sir/Madam.
+
+I am Akshi, currently studying Computer Science in IIIT-Bangalore. I was born
+and brought up in the holy city of Haridwar. I want to become a professor and
+would love to be involved in cutting—edge research in future. I have multiple
+hobbies. For instance, I am very passionate about reading books. I have read
+numerous ﬁction and non-ﬁction books. I am specially inﬂuenced by
+Mahadevi Verrna's works. I also love playing Table-Tennis and guitar. If I could
+relive the last 10 years of my life, I would not hesitate in asking more and
+more questions. I cherish all the memories that past 10 years have given me.
+So, I would not change much. But I would certainly give more time to my
+family and would love to learn a new language or more!. Ifl have problems
+at my workplace, I would not make haste in complaining. Instead, I would
+calmly analyze the problem ﬁrst. I would try to look at it from different
+perspectives and would try to ﬁnd a solution that considers everyone's needs.
+I'll first talk to the col|eague(s) with whom I have problems with. I'll approach
+the higher authorities only when this approach doesn't work. I would also take
+advice of my parents as they are much more experienced than me. Once I
+lost my temper in the heat of the moment. I talked harshly to my friend about
+her incorrigible habit of cheating in exams . At that time, I said it thinking that
+it was for her beneﬁt only. She got hurt. However, after contemplating for
+several hours, I apologized to her and explained to her calmly that she should
+not cheat in exams. I also helped her prepare for the upcoming exams. She
+passed with ﬂying colours without cheating. I am a very curious person by
+nature. I am always eager to Ieam new things. This question has brought up
+myriad of new skills which I would love to Ieam. However, given an
+opportunity, the ﬁrst skill that I would love to Ieam is the skill to analyze
+languages which forms a major part of computational linguistics. Also, I am
+very eager to know about the latest technologies in the ﬁeld of computational
+linguistics.
+
+Given an opportunity, I would also love to Ieam hip-hop dance!. While making
+decisions, I weigh both logic and intuition and decide accordingly. However,
+there have been many instances where I trusted my instincts even when the
+logic said otherwise and didn't regret it. Hence it can be said that I take risks
+based on intuition but avoid taking irrational decisions",5.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+62,0.0,13.0,0.0,1.0,IMT2016032,"This is Adityajain. I am from Delhi. I am a total introvert and don't talk much.
+I like watching every sport though I particularly love cricket and soccer. I love
+discussing sports as well with anyone. That's it. I can't tell more about myself.
+If my idea and execution both are perfectly sound then the client would be
+automatically impressed. But ifl have come up with a new idea, I would
+explain the idea and its long lasting beneﬁts to my clients. I think my ideas
+and commitment would be good enough to convince any client. I am a totally
+disorganised person the result of which I, at times, fail to live up to my
+abilities and expectations. I don't organise things very well. Though, in some
+cases, I am pretty good at organising like thinking of what to do with a
+particular thing or person but for that, a lot of time has to be spent. The
+feeling would be a challenging one as I would think lowly of myselfjust
+because of someone else's sheer brillance. But if the person is good enough
+and knowledgable and of course not egoistic, then I can rather Ieam a lot
+from him/her. The preparation of competetive exams after class 12 for
+engineering entrance is the most obvious time of heavy workload. I could not
+
+handle the time as well as my abilites were due to the habit of procastinating.
+
+Again, in the second time, I sufered a similar fate. I have complete faith on
+my abilites but can't trust my exeution and this is what exactly happened. I
+only regret my decision of having a bad company during the (second) most
+crucial phase of my life - the competitive exams preparation and also always
+looking for some external motivation when none was required. I actually
+developed a habit of procrastination which I would regret my entire life. My
+performing at less than 10 percent of my actual capabilites is the just
+consequence of that",4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+63,0.0,26.0,0.0,2.0,IMT2016037,"i am siddarth reddy,a computer science student studying in iiit banga|ore.i
+am from hyderabad,came to bangalore strictly for pursuing my
+undergraduation.my father's name is balaram reddy,he is an executive
+engineeir in amndhrapradesh state government,my mother's name is
+|akshmi,she is a home maker.i am very interested in computre. i am mostly
+satisﬁed by the work i do,so i do my work with a passion which results in
+immense satisfaction to my inner self,so the job i do gives me the utmost
+pleasure in working,deve|oping a loving attitude towards it ,so job matters to
+me rather than the amount which i get paid for it.hence to me job satisfaction
+has more priority than salary. The most difﬁcult situation in my life till date is
+preparing forjee,at the beginning ,i was unable to cope up with it,but soon
+by longer hours of study,dedication,transformed attitude,hard work and
+development of passion towards subject,deve|oping concentration and
+immense support from my parents,especia||y my father who was with me in
+ally strugg|es,u|timate|y the spiritual power made me stand in the race. the
+only thing i regret is that,i would have prepared forjee with little more effort,
+concentration,decrease in my distraction,utilizing time efﬁciently with little
+more handwork,i would have fulﬁlled my fathers wish ,pursuing my under
+graduation at prestigious lit. i cant have perception to be creative,but some
+of my thoughts seems to be creative.one such example is the attitude i have
+towards others,every work others do either positive or negative,i hope there
+is some reason behind it,taking it in a creative way,may be it doesn't look
+creative,creativity is deﬁned to me like this. my outside interests are sharing
+my thoughts with my father,trave|ing with my fami|y,spending time lonely in
+p[p|easant atmosphere,i utmost like long journeys with my family and also
+interested in active sports and want to spend my leisure time with my
+parents ,any likes playing with my brother,ﬁna|ly,i like running very much",0.0,1.0,0.0,11.0,0.0,0.0,0.0,0.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+64,0.0,9.0,0.0,2.0,IMT2016060,"My name is Y D Yasasvi and I live in vijaywada,Andhra Pradesh
+
+I am 17 years old born on 5th october 1998.
+
+Completed my S.S.C in Andhra Pradesh scoring 9.5 GPA.
+
+And then I did my intermediate in Narayana college and scored 98 percent in
+board examinations.
+
+Presently studying in IIITB in Bangalore. My interests are generally watching
+animated movies and playing indoor games especially chess and carroms.
+
+Even I play badminton regularly.
+
+And much more interested in coding.
+
+I have habit of visiting botanical gardens.
+
+. Few days back I had learned some new tricks in coding taught by our
+
+seniors.
+
+I actually learn skills every time when I lost something which I aim it and that
+would be like something very new,| mean if it was very close to methen I
+adopt it i.e usually getting to it. I usually create lot of things at home.
+
+I created something like oven,a box kind of thing.when you put something in
+that it and keeping the entire thing in the sunlight it gets heated in few
+minutes. It is useful when you want something like pizza,hotdog... heated.
+
+and then created some cutting thing. Actually my carrer was full learning
+something new...
+
+My best carrer part is when I am studying 5th class to 7th class. In that days",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+65,0.0,22.0,0.0,0.0,IMT2016088,"This is Neha Krishna Dasari , a student of iMTech 2016 batch. I hail from the
+mirchi city— Guntur, Andhra Pradesh. I am a voracious reader of novels -ﬁction
+and non-ﬁction and am greatly inﬂuenced by women centric novels of
+contemporary themes. Sudha Murthy is my favourite author and I enjoy
+poetry a lot. 'Fnk|e laid the foundation of this reading interest in me and I feel
+proud to say that I read it till date.
+
+My ambition used to be to become an astronaut and conquer the realm of
+outer space. It started in my 4th standard when I ﬁrst read the biography of
+Kalpana Chawla and she has been my inspiration ever. That according to me,
+is a relative question and it depends on the other person. I would like to be
+respected by people whom I don't have much acquiantence with . Generally
+my behavior changes when I am with one person to the other. That is
+because we need to be clearly distinct about what impression of us we wanna
+be portrayed. So, I would rather be respected by stranger sorta people and
+liked by people whom I am close with , since , it is with them only that we are
+our true selves.
+
+In a profession I would like to be respected whereas in relationships I believe
+respect comes complementary to being liked.
+
+.Wel|, further studies are important. They deﬁne us actually. We are always
+students and I suppose that i cannot just manage on with a single degree.
+There is this dearth of knowledge and also further studies take us one step
+closer to our dreams because it is always good to be more informed. I would
+suggest anyone to go for further studies,get deeper in the topic/leam new
+things.
+
+Sometimes further studies might help us lift the boundaries we imposed
+ourselves on u. The new skill/s that I would like to acquire is/are —
+
+1.| wanna learn a new sport , like , table tennis which i always thought is a
+great game not only to improve you physically but also, I think when you hit
+that ball, you have to be extremely careful about hitting it with the right
+force. Even if we apply a little mmore force, it will go out. So, it imposes a
+constraint. We will have a very good co—ordination of mind and hand which is
+very essential in today's world. One needs to stop the gush of emotions and",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+66,0.0,25.0,0.0,1.0,IMT2016092,"I am yashaswi. I am doing my imtech at iiitb. I like reading books, watching
+movies and i am very intrested in knowing about the history. I like playing
+basketball. I am intrested in mathematics and i do it well. I always control my
+emotions in any case , either happy or sad. I love traveling. Trips with friends
+are really awesome. I have an elder sister, who is persuing her MS in
+housten, US. i like ﬁghting with her. I am satisﬁed. When we visit a place, i
+pay much attention to know the history and speciality of that place. I watch
+news. I am intrested in robotics. I even watch the updates of politics because
+they inﬂuence us in our future. I watch sports and movies. Music is the best
+relaxation. When ever i ﬁnd free time, I listen to music. It makes me forget all
+my worries. I like interacting with my surroundings ,rather than being a frog
+in the well. I would ﬁrst enjoy my life rather than putting all my time for
+studies. I want to spend my time on sports. I would take batminton coaching.
+I would learn dance, both western and traditional. I had hurt my parents
+many times. so, i would rectify all my mistakes. Take good decisions. I would
+put good effort in things what I am doing. Help my parents in many things
+rather than escaping from work. We usually have conﬁdence when we are
+good at a thing and we know that we are going to perform it better.
+Conﬁdence usually helps us in development. It gives us more energy to do
+the particular task. Where as over conﬁdence is the feeling that only I am
+good at this and no one can overcome me. It may result in failure. Some
+people though they are over conﬁdent they can succeed with their talent. But
+if we have conﬁdence on us rather than over conﬁdence, it results us in good
+results and success in life. I have made many mistakes but rectiﬁed then and
+took care that i don't repeat them. And when I see any person facing same
+problem I helped them in getting out of that problem. Hiring a person doesn't
+depend on the origin of the person where he is from. They usually see the
+talent and capability of the person thet he can do that work or not. Whether
+he can do justice to the work he was given or not. So where ever the person
+may be from , talent and intelligence matters not his origin",11.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+67,0.0,28.0,0.0,7.0,IMT2016103,"eeeh iam siddharth presently in my ist year of imtech at iiitb i think thats
+obvious .iam in ece branch. iam 18 years o|d.presently know very less about
+programmming but curious to know more.i still dont know whether to be a
+programmer or something that is related to my branch.since this is integrated
+pragramme i dont have many choices as a normal btech student will
+have.time up. ﬁrst of all i think that your companys requirement has well
+suited me.i think iam capable to this job .since there are no things that i have
+done so that you should not hire i think you can hire. many people treat that
+both life and work are two different boats and they try to ride the two boats
+at the same time which is practically not much possible. to me work is also a
+part of the life. and i want to live my life to the fullest so since my work is
+also a part of my life i will just enjoy it to the fullest .so whether its a
+
+party or work i want it to be 100 percent successfu|l.so do i need balance
+anything. until now if there is a decision that has needed the highest thinking
+that would be about which college to join after high schoo|.after i have
+completed alll the entrance exams my results were not so well .so i had to
+select the best college that would i get to my rank. iam glad that i selectd
+iiitb among all other colleges
+
+. I know that most of the clients are very hard to convince since they have
+excuse for every thing we bring. but iam conﬁdent enough to make them
+convince
+
+i just prepare myself for every excuse they make and also be ready for those
+which they iam not prepared .iam always ready for surprices and i will try to
+make them fall for their own excuse .and make sure that they cant get from it
+. i am also conﬁdent that with some experiance i
+
+. i think joining my college is the best decision made so far but i think it may
+be changed once after i join your company",0.0,0.0,0.0,16.0,0.0,0.0,1.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+68,0.0,7.0,0.0,2.0,IMT2016107,"I am shubham jain, I am a student of IIIT Bangalore I Mtec. program in ﬁrst
+year . I love football and pc games. I want to be a good coder and a get job in
+a good company. I like music. I am a bit lazy (a lot). I don't keep my room
+clean and my room partner is not happy with that. I am kind of a shy person
+and don't like to talk to every one very much which often make
+misunderstandings among people, which i suffer afterward. I dont like people
+to disturb me during work. Most probably i would love to learn coding then i
+would learn some football skills. I most probably am not able to balance life
+and work but i usely make a time table to create a temp. balance. I don't
+regret any big decision in my life that i have taken, but there are small
+decision which i take in daily life and regret about it for some time. I want to
+be a good programmer and also i want to be best ﬁfa player",6.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+69,0.0,11.0,0.0,1.0,IMT2016112,"I am Kotha Tejas. I am studying in iMTech First Year in IIITB. I am a joyful ki9nd
+of person and you can't seeml am fond of reading novels, watching anime
+and all sorts of Television shows. Basically, I love to interact with people of all
+kinds and know about their cultures, traditions, hobbies, their views on recent
+issues and all such stuff. I am less of a talkative type and more of a listening
+type. So anyone can share anything with me but I am not at all good at
+keeping secrets. So, be aware. I try to analyze his point of view and check if
+he/ she is correct. If I feel that the boss is acting without any legitimate
+reason I will try to pursue him to look at the aftermath or suggest alternatives
+which would be good for the ﬁrm in a polite manner so that they get to know
+my perspective and could think about it or else help him to improvise his
+decision. Even after this if I feel the same way, then I would contact the
+higher ofﬁcials. Well, most people often criticize me that I go overboard if I
+feel something is wrong. Also I am not good at keeping secrets and might
+sometimes comment without thinking. but they fail to understand that I do so
+because it comes straight from my heart and never hide anything. They often
+tell me to have some faith and self conﬁdence as I have a lot of stage fear
+and that I am afraid of responsibilities but with the same hardwork and
+command can be a good leader. Well, I actually handle change in a positive
+manner. I look out for the positives behind it and try to get adapted. The most
+important thing is to discuss and hangout with friends as they have the best
+solution for the problems as they have the idea about our true nature, work
+etc. than anyone else. If there any negative impacts of change then it takes
+time for me to get adapted but such a situation never occurred to me sol
+guess I can't comment much. Well to motivate others we can always tell
+them the stories of great achievements by many great people, also the
+individual achievements by the group members helps to boost up their own
+faith. Well, I would be the one leading them so I will stand as a support pillar
+for the team members so that they can believe that I am standing there to
+support them. I can boost their conﬁdence by talking some stuff like a real
+friend to clear their mind and pursue them to see it as an opportunity to got o
+the next level. I am fond of abstract Photography and am visiting places and
+click some really good pictures. I am an artist and have won silver and bronze
+medals in many drawing competitions conducted by Schoolsindia Foundation.
+I love to edit music using some computer software and have been an active
+contributor in many short ﬁlms and advertisement in my school. I am also
+good at making all kinds of Presentations for projects including fact based
+and philosophy etc",4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70,0.0,16.0,0.0,4.0,IMT2016122,"Well, I'm Shreyas gupta. I am from hyderabad but was born i rajasthan so, My
+hindi is pretty good !
+
+I'd call myself somewhere between the barrier of of An introvert and an
+Extrovert. I'm a EDM Fan ( have gone for Armin Van Buuren and Afrojack
+concerts I I have watched somewhere near to 37 TV series, 300+ movies
+(basically a POP CULTURE aﬁcionado!)
+
+I'm a tech Geek and a huge fan of Marquee Browlee !. Well, Some say that I'm
+uncertain about what i wanna do with my life ( Clearly they don't understand
+me !). They Often say that I'm a very moody person (I easily slip into deep
+thoughts ). they even stereotype me on my color but I'm sportive so....never
+take it to heart. Frankly, i try to be friendly with as many people as possible
+but deep inside, i know that atleast 30 percent of them think that I'm a dork !.
+Frankly speaking, I love strategic management! IF i summarize my thoughts
+into poinls in chronological order, they would look like this.
+
+1) Create personal interest. cause i believe that no matter what you do, if
+he/she aren't interested, even almighty can't do anything !
+
+2) Be a listener. Many people try imposing their ideas and never care what
+others have to say.
+
+3) present your experiences, talk with them personally and bloom this bud of
+conﬁdence in them. Parallel Activities ? I once piled up a lot work and later
+repented it ! so basically I had to attend my Golf lessons ( 8AM-10AM) then
+come back, have my breakfast and then prepare for a Olympiad I was
+selected for. Then Go out with my family ( can't ignore that cause Mom—dad
+think that I'm too secluded ) followed by Completing Some unattended stuff. (
+Might sound lame but, I'm a easy going person so...everything was easy-
+peasy to me! ). Extremely ! Given that i got admission into this college at
+the nick of time ! Basically i had no hopes on joining here and had planned for
+taking a drop. Everything was set, we talked with the coaching institute, got
+my books packed up and everything. I was gloomy, couldn't talk with my
+pals, everything was going wrong ! That's when I got a mail from my dad
+about this ! so, ifl weren't lucky, id not be sitting here and typing this",2.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,8.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+71,0.0,8.0,0.0,0.0,IMT2016125,"I am Kavya. I am 17 years old. I am studying in the iMtech course at IIIT
+Bangalore. I am from Hyderabad. I like reading, sketching and listening to
+music. Reading Novels
+
+Listening to music
+
+Sleeping
+
+Sketching
+
+Watching movies
+
+Writing
+
+Net surﬁng
+
+. I believe I have the required qualiﬁcations to handle this job efﬁciently.
+
+I think it would be beniﬁcial for both me and the company if I am hired.
+
+I would do my best to improve the company which would also effect my
+career.
+
+Also, the organisation would be better off with some new talent by hiring from
+outside. I am deﬁnitely a risk-taker.
+
+One cannot move up the ladder of success without taking risks.
+
+Having said that, I take risks only after assuring that the damage is minimal
+in case I fail.
+
+I like taking risks as that will put me out of my comfortable place and give me",4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+72,0.0,12.0,1.0,17.0,IMT2016126,"Hi, I am tanishq gupta.
+
+I am from delhi. I belong to a joint family. in my family i have my parents and
+a small brother, my grandparents and my uncle, aunt who have a son and a
+daughter, both younger to me. in my family everyone is very open and
+understand the needs and necessities of today's era and no one behaves in
+an orthodox way.
+
+talking about myself, i am fun loving person and i am extroverted introvert.
+by this term i mean that i ﬁ a. i want to be respected rather than being liked
+because being respected will automatically give you a nice, conﬁdent feeling.
+But if you feel liked you don't know that if that likeness comes from the heart.
+but if someone respects you that is from the heart because it will never
+happen that you will not understand if someone respects you. therefore their
+is a sense of genuinity in getting respected. ﬁrst, i would like to know the
+weaknesses of my team and why they are not working properly or why they
+are not feeling nice at the working place. then I would try to help them with
+that difﬁculty. I will give them positive examples of people who have
+succeeded by overcoming their failures and their shortcomings. i would make
+them feel comfortable talking to me and with any member of the team. a
+sense of friendship and family is very important when you work together in a
+team. yes, this happened recently. their was an awesome person who was
+with his friends. i had approached them regarding an event that was going to
+happen in the college and i wanted them to participate. so i approached them
+and noticed that one of her friends was someone whom i knew as the most
+notorious, and very less moralled person and as a person with no values. i
+immediately formed the same expression about that girl. i talked to them
+anyway and invited them. later when i got to know about that girl, i felt really
+guilty about judging that girl because she turned out to be a really awesome
+girl, with a really nice sense of humor, she had a. their was a girl i loved but
+then our relationship was turning into a very toxic relationship due to some
+unavoidable incidents. and at last i decided to stop talking to her and decided
+to turn her into a stranger which turned out to be the most difﬁcult decision
+of my life. as i had never imagined myself without her. and it took me a lot of
+time to forget her. yeah i do, i had some bad experiences i school but then i
+got chance to get into iiitb college, i enrolled into it feeling insecure because
+the college has not so much experience as it has just opened. but as i spent
+some time here i got to about the awesomeness of the place. now i have
+really cool friends and i am considered as an important part of the group. also
+i participate in almost every event, and so many people know me. i feel really
+valued and wanted kind of in this college. and i am really lucky to be here",0.0,1.0,0.0,27.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+73,0.0,7.0,0.0,0.0,M1368,"I am Ajaya H S, a Research Associate in the Multimodal Perception Lab in IIIT—
+Bangalore. I have a bachelor's degree in Electronics and Communication
+Engineering from M S Ramaiah Institute of Technology. I worked at Volvo India
+Pvt. Ltd. for about 2 year before joining IIIT-B. I have good research
+experience working on Computer Vision and Embedded Systems. My career
+objective is to become a tech entrepreneur. I would describe myself as
+intuitive and innovative individual. I have the acumen to go the root of any
+problem and ﬁnd the best possible solution. I do not shy away from
+challenging tasks and highly value the time constraints of any project. These
+are some of the qualities I can bring in to the team which would make me an
+asset to the organization. I have always believed that success is not
+measured by the end results but by the path taken to reach that result.
+Success is about being honest to oneself and giving their best towards
+achieving a goal. I have followed this principle in every project I have been a
+part of. Understanding each other's point of view is the ﬁrst step towards
+dealing with any disagreement. I will ﬁrst make sure that we understand each
+other‘s perspectives correctly and then try to negotiate a midd|e—ground for
+the parties. I believe the disagreements are a part of parcel of everyone's
+professional life. I will try to judge the situation and make a compromise in
+case of inevitable circumstances. People say that dots connect backwards. If I
+look back and introspect, I would say that my greatest disappointment would
+be that I failed to give more attention to extra-curricular activities. I probably
+would have been a better person ifl had Ieamt more skills. I prefer to be
+respected more than being liked. I believe respect is more truthful and",4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+74,0.0,18.0,0.0,0.0,M1370,"I am Shruthi Nambiar, a Research Associate at IIITB. I did my undergraduation
+at BMSCE and passed out with a CGPA of 9.38. I was in the top 5 percent of
+my batch. Since then I have worked in the research division of SanDisk as a
+frimware development engineer. My work mostly involved performing user
+data analysis and developing ﬁrmware features based on the result of the
+analysis. Our most recent ﬂagship model was presented at the Mobile World
+Congress and gained accolades. My penchant for efﬁcient analysis led me to
+|||T wherein I plan to pursue a short academic stint. Going further I plan to
+pursue my masters in this ﬁeld. A great person once said, the only true
+knowledge is the knowledge that you know nothing. To achieve greatness, we
+sometimes need to start over. We need to Ieam to let go of our ego and focus
+on our goals. When the mind is focused on the end goal, everything else
+becomes secondary. Working under someone younger would be a refreshing
+experience. We get to learn that age and wisdom need not always be in sync
+and that greatness comes from talent and effort. It is an experience of a
+lifetime that we should all experience, an experience that Is exhilarating and
+humbling at the same time. I can bring to the table what only a new person
+can bring. Unbiased perspectives. Someone who has been part of the system
+for many years is accustomed to the engineering thought process of the
+existing system. With experience comes assumptions. A new person like me
+would have the ability to question some underlying assumptions. Moreover, I
+have worked in different environments in the past. I can bring in my past
+Ieaming experiences on both the technical and the process front, make
+astute observations and make useful suggestions ultimately adding more
+value to your team than an existing employee. At my previous job in SanDisk,
+we were given the task of developing the ﬁnnware for a 256 GB micro SD
+card. IT was the ﬁrst of its kind in this world, a ﬂagship model. We did not
+have the required hardware resources to take this task to fulﬁlment. Our ﬁrst
+milestone was achieved on time. But before the second release, we faced
+several challenges. We saw the hardware behave in unexpected ways
+throwing up more and more failures each day. This was the ﬁrst time I truly
+understood the strength of a team. Teamwork was one of the ﬁve pillars of
+our company and we stood by it. Together we worked day in and day out and
+worked hard to get the issues resolved, one at a time. We ﬁnally met the
+target and all of us, as a team won several awards for teamwork and
+outstanding performance. As a child I was told, Hard work beats talent when
+talent fails to work hard"". It was an advice that stuck with me through my life.
+I pondered upon what hard work meant to me. I realised being systematic in
+what we do in breaking our tasks and doing a little each day we can achieve
+all that one can ask for. Hard work to me was a way to circumvent
+procrastination. Staying organised. They say when you look back at life, you",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+75,0.0,14.0,0.0,0.0,MS2012008,"I am Satyabrat. I believe that to do anything in life, all you need is conﬁdence
+and faith in yourself. If you have conﬁdence, you will take the ﬁrst few steps,
+taking the ﬁrst few steps, it is conﬁdence that will take you half the way, and
+then if you do your best, God will do the rest. So, this would probably suggest
+that I am quite a day dreamer, usually very optimistic, philosophical and
+offcourse there are many facets that I am yet to discover about myself. This
+brings me down to a question, what does it mean to truly discover oneself,
+and is their a possibility that everyone of us is unfathomed and unfathomable
+?. Further studies and staying in academics is what I always wanted.
+Academics always helps us to keep alive the child in us who has to learn,
+releam and in the process may discover something that will have a standing
+impression on society and mankind. Further studies is what I would term as a
+synonym for research""."". I handle change by not looking behind, staying
+optimistic and most importantly by having faith which helps me stay hopeful.
+Short term goals, and associated rewards. Rewards always increases the
+conﬁdence in an individual and keeps them motivated while keeping the
+larger picture in mind. ‘Fume is very valuable and I have learned it the hard
+way. Concentration, speed and continuity along with timely execution of plans
+are essential to success. People succumb in difﬁcult conditions. I don't. I
+adapt and I always stay positive. You see MS Dhoni, the most successful
+captain in the history of the game. He is called Captain Cool and it is this
+optimism that keeps him focussed in trying conditions. Along with my
+optimism, I have all the necessary skills to ﬁght out of any difﬁcult situation
+and steer you to victory, making me your best asset in times to come. You
+should deﬁnitely hire me",0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+76,0.0,9.0,0.0,0.0,MS2014004,"I am Pooja Venkatesh pursuing my MS by Research under Prof. Dinesh Babu in
+the ﬁeld of Data Sciences. My area of research combines both art and science
+of prediction which includes predicting the expertise of a dancer using
+Machine Learning techniques, image processing and video processing. My
+other interests include classical dance form of Bharatanatyam. I would ﬁrst
+talk to each of the person in the team to address his/her problems. I would
+also take suggestiond from them anonymously since few of them might be
+apprehensive about giving feedback openly. I would also give my opinion and
+motivate them by telling about all the good work they have done and how
+they can improve. I can tell about an incident where I have convinced my
+friends who happened to be my project mates to take up the idea for our
+project which they were not willing to initially. I then explained them the
+advantages of taking it up and they ﬁnally agreed. I would really work hard
+and put my 100 percent into the task I will be doing. I work well under
+pressure and analyse any situation patiently before taking any decisions.
+Being conﬁdent is like believing in yourself, believing in your ability to do
+things and work hard for it. It means that you have self—belief and are capable
+of handling any situation. Over conﬁdent on the other hand is believing that
+you can do anything and everything. You do not analyse the situation but
+think that you can overcome anything even before weighing the options. I am
+happy with what my life has turned out to be. I would not make any big
+changes but may be change small small things like be more proactive and be
+helpful and polite",5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+77,0.0,5.0,0.0,0.0,MS2015009,"Researcher at Machine Perception Lab, pursuing MS by Research under Prof.
+Dinesh Babu. This is my 2nd year at IIIT Bangalore. Previously I was working
+in I-‘idelity Investments for 2 years as an Associate Software Engineer. I have
+done my bachelors in Computer Science from BMSCE. I work in the areas of
+Social computing, NLP and Machine Learning. Personally, I am less of a talker
+and a se|f—procIaimed introvert. In my opinion, I think there is a thin line
+between hard work and smart work. To be successful, we need to work hard
+as well as smart. Before starting with any task, we should ﬁrst analyse the
+work at hand, make some task-list on how to accomplish and then go about
+working towards the task at hand. This is what I would refer to as smart work.
+Without prior thinking, working very hard might or might not yield required
+results and all the efforts will be in vain. Other than my professional interests,
+personally I am interested in dance and music. Currently I am learning the
+classical dance form of Kathak and I am enjoying every bit of it. I also like to
+read blogs on life hacks, productivity and time management. My strengths
+would be that I am a hard and smart worker like I pointed out before, a team
+player and work exceptionally well under pressure. In my previous job, we
+used to face various high pressure situations. That's when I realized I work
+well under pressure and can handle stress fairly well. And I also handle
+situations patiently.
+
+I wouldn't like to call these as my weaknesses but points I need to work on. I
+am a big time procrastinator, an introvert and ﬁckle minded. These are the
+things I need to improve upon. I am an organised person in terms of the
+things or the materialistic possessions I have. I like to keep my surroundings
+organised and tidy.
+
+But I am also a disorganized person when it comes to keeping up with time.
+Even though I try and make schedules for myself, I end up not following
+them. I am disorganized in this front. I would like to learn public speaking
+skills. This is one thing that I am not so good at and would like to learn it
+properly and professionally",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+78,0.0,18.0,0.0,0.0,MS2016006,"Hi. I am Vaishnav Ram from Bangalore. I am an electronics and
+communication Engineer, graduated in the year 2014. Currently, I am
+pursuing the Master of Science by Research program in IIIT—B. The reason why
+ichose Engineering was because of my passion. I Ieamt the power of
+semiconductor devices and the impact of it in various ﬁelds like defence,
+medicene, music etc. in my 10th standard and was very fascinating. I decided
+then that i will become a researcher in the ﬁeld of electronics and be a
+valuable contributor to the same. And that is the reason i am pursuing the
+Research program for master's and not the course oriented Mtech program. I
+also worked in an electronics start up called Worldserve Education for an year
+from 2014. After my 12th standard, i wanted to study in one of the premier
+engineering colleges in India. But unfortunately, I couldn't do well in the
+entrance exams of those. But, without losing hope, I followed my passion
+towards electronics and joined a decent engineering college in Bangalore. I
+designed few projects, and attended several workshops during the 4 years of
+course. Later, ijoined an electronic startup and designed several projects
+during my tenure of one year. Now i am in the path of canying out valuable
+research and contribute to the ﬁeld of electronics. Yes! I have made many
+mistakes in my life, which led to where I am today. I would say that without
+those mistakes i would haven't Ieamt the way to handle those. One of the
+common mistake i do is to talk in front of people without giving it a thought,
+which used to make people uncomfortable around me. I realized my mistake
+and also got some feedback from my intimate circle of friends and tried to
+control the way i speak when in a group. There are many decisions in my life
+which were tough to make. After getting a low score in 12th standard, it was
+hard to decide whether to join Engineering and pursue my passion, or to
+believe that i don't belong in the electronics ﬁeld as my scores were too low. I
+chose Engineering. After completion of engineering, I had a choice ofjoining
+two of the best companies offering the role of a software engineer without a
+good CTC. I also had the choice ofjoining a startup which worked on
+electronics, and the pay was very less. I chose to join the electronics startup.
+After completion of an year, it was tough to let go of the job and prepare for
+GATE entrance test and pursue masters. But i did leave my job. These are
+some of the tough decisions i had to make in life. I would consider or ratheri
+would prefer an organised lifestyle. I keep my things clean and in proper
+organised place, which helps me in ﬁnding my things easily. I also plan my
+week using a weekly planner and try my best to achieve my weekly goals by
+following it. these are two examples to say that i am an organised person.
+
+But life is not sunshine and rainbows as Sylvester Stallone says! I do
+procrastinate sometimes, go off the schedule and relax more. There are days
+where i missed my breakfast and slept for nearly 10 hours, which could be a
+possible example to say that i am a disorganised person sometimes.",1.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+79,0.0,7.0,0.0,0.0,MT2015009,"I am from Jabalpur, Madhya Pradesh. My dream is to become a teacher in
+college, teaching basic subjects like data structures, C++ to the under
+graduates. I like photography, particularly of animals and nature (like tree,
+sky, mountains). Currently I am a member of the Student Activity
+Counsi|(SAC) of the college. I follow the motto of never give up"" so I work with
+pre"". I am a member of Student Activity Counci|(SAC) in the college. In the
+month of September, just after becoming a member of SAC, there were a
+series of events to be organized in the college and I also had class tests and
+studies to handle. I had to manage both. I used to do SAC work in evening
+after attending my classes and spend the nights in studying. There were
+times when SAC work extended till night so I covered. I like reading ﬁction
+novels. I am more interested into mystery solving and crime investigation so
+
+I have read some of Dan Brown, Sidney Sheldon, Agatha Christie.| also like
+reading articles online and in newspaper. I like to learn and play different
+sports like basketball, table tennis, lawn tennis. I like photography, in
+particular shooting animals and nature. Yes, I consider myself as lucky as I
+have many things that some people do not have. I have my parents to guide
+me, friends to support me and many more. I also think that I am lucky
+because of some life events I experienced like, I was preparing for GATE along
+with B.Tech ﬁnal year, my preparations were not up to the level, but then the
+paper was not difﬁcult in 2015 and I made it to IIIT-B. In my B.Tech we had a
+project in seventh semester. We were a team of 3 girls. Two of us, including
+me were working on the back end and one was working only on the design
+part of the front pages. The design part of internal pages was also being done
+by the 2 of us. At that time I felt that she is not doing her fair share of work,
+but I with my other team mate managed to do b. In my B.Tech sixth
+semester, we had a minor project. We had a team of 3 girls. We were to make
+a website, but among the 3 of us only I took the course of C#.Net. So I had to
+think of how all 3 of us can work and contribute to the project. It was an
+online primary Ieaming site and had a lot of design work and we also had to
+make presentations for young children , so I gave these 2 works to my other
+team mates while I did the datab",3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+80,0.0,17.0,0.0,0.0,MT2015020,"I am 2nd yr MTech IT student of IIITB. I am a fast Ieamer and have
+interpersonal and leadership skills. My area of interest is Machine Learning,
+Computer Vision and Data Structure and Algorithms. I have a work
+experience with TCS for 30 months as a JAVA developer. My hobbies are
+reading, swimming and playing basket ball. I like to visit places with natural
+beauty, oceans, mountains etc. Conﬁdence is knowing that no matter how
+hard a problem comes you will work hard and prepare your best to be able to
+solve it. On the other hand over conﬁdence is considering that you can
+handle something without the need of preparing for it. An instance would be:
+I will deﬁnitely get a good job no matter how much time will it take because i
+will work on all my shortcomings. Overconﬁdence is I am already too good to
+crack this interview and i will crack it. I am a fast Ieamer and a hardworking
+responsible person. I have always fulﬁll all my responsibilities whether in
+academia world or in job. My work was awarded and appreciated by my
+leads. I was lead developer and backup lead in our project in a small span of
+1 year afterjoining . I was given best performance bands and good
+promotions. I have good analytical and technical skills, even if there's a
+problem that I am new to, i will be able to ﬁnd a solution. It was a project
+where the estimations of efforts and analysis of change done by the person
+was wrong and I was incharge of development of that product. I found out a
+way to convince my onsite counter part to buy a small amount of time as
+much as he can, and pallnned to break down the problems in small
+deliverables which would be given to client one by one. So that we will get
+more time to develop and the deliverables also doesn't get delayed. Because
+even if the requirement is delivered at once, tester will verify one by one so
+why not deliver in pieces. Was awarded by my leads for handling this.
+Success is able to do what you like and be bale to earn a sufﬁcient amount
+form it. Success is when your work doesn't looks like a burden but the joy,
+your results gives you immense pleasure and you can look back and proud of
+the hard work you put in to get it. Success is not about how much you are
+better than him/her (i.e. your colleague) but how much you have improved
+yourself. Every one wants to succeed but not everyone wants to put efforts
+and hard work for it. It is addition of small small achievements you made and
+reached where you are. I have a different experience than people in the
+organization, I will bring a new perspective a different approach for the tasks
+Organization is working on. I am different form the person you will promote I
+have some qualities he won't have. I am smart, hard working person with
+continual Ieaming attitude. I have some skill set and I will gain more as I Ieam
+more. Every project that I have worked on , I have received good appraise
+from my team mates and leads",4.0,2.0,0.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+81,1.0,20.0,1.0,0.0,MT2015038,"I am Darshan Bhat, currently studying second year M.tech. My stream is Data
+Science. I graduated in 2014. I did my B.Tech in PES university bengaluru
+majoring in Electronics branch. My area of interests are algorithms, data
+structures, machine learning, signal processing and communication.
+
+Apart from technicals, I love to play and watch cricket. I love to cook if I get a
+chance (and daring people to eat it :) ). People often criticize me about my
+presence of mind and humor. I guess these two will make our day to day work
+much easier and better. People also trust me for the challenges I take to
+complete the assigned work. I was my teams favorite when I used to work in
+my previous company, you can refer to my linkedln recommendations as
+proof of concept :). This happened when I used to work with my previous
+employer. Suddenly an important bug was rose by the customer on a Friday
+evening. Unfortunately that being a long weekend most of my team mates
+including my tech lead was on a holidays out of Bangalore. That bug being
+very important and had a potential of customer dis—trusting our company, I
+was spell bound to ﬁx it. I came to ofﬁce on Saturdays and sundays and ﬁxed
+it after working around 10 hours on each day. In the technical side my
+interests are algorithms and data structures, machine Ieaming, signal
+processing and communication. I would love to work in the core technical
+team.
+
+On the non technical side my interests are playing cricket, cooking. I would
+love to visit new places along with my best buddies. I always want to keep in
+touch with latest technology, so I used to sur. Well this is a very interesting
+question. I usually dont carry work related stuffs after the ofﬁce hours, unless
+it is life threatening :). I want to spend quality time with my family after
+ofﬁce hours. Weekends are like my stress busters. I will go for an outing with
+my family. That will help my to get refreshed and motivated to work again on
+monday :). Along with that, I will love to maintain my ﬁtness. Being a morning
+guy I am going to gym before coming to ofﬁce. which is a. I am a very
+organized person when it comes to my work. I always try to ﬁnish my work
+earlies of my deadline. I always managed my time sheets efﬁciently in day to
+day work. I always maintain notes of all the meetings.
+
+I feel sometimes disorganized in home. I wanted to do several things in the
+free times, but I will fail some times in prioritizing them",4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+82,0.0,12.0,1.0,1.0,MT2015041,"I am Dhanesh. I was born in Rajasthan and bought up in Raj. and Kolkata.
+Since childhood I was fascinated by science (didn't lots of terms at the age of
+7-8) and aspired a career in it. In Chennai, I became fascinated with
+computers and coding. I started Ieaming about the internal working of
+computers. By the time I was in 3rd year B.Tech, I decided to be more
+centralised and took up data analytics as my interest. Let me ﬁrst clarify,
+what I don't consider as success.
+
+1. Getting top marks
+
+2. Being multi—tasker
+
+For me success is doing what you love and excelling in it.
+
+I am reﬁning my goals and aims based on knowledge and experience that I
+get everyday. I am on my path of success; a little bit behind the schedule, but
+on the track. I have Ieamt and gained experience from the projects and self-
+studies through the help of online materials and libraries. I have always
+strived to complete the given task, keeping in mind the quality (of code).
+With never say die enthusiasm, I will be good asset for the organization and
+its future. I always wanted to learn a musical instrument, like tabla or
+mridangam, but never got an opportunity to pursue it. If enough time, I would
+love to pursue this. I am not gifted with good voice but, whenever given a
+chance I sing to the tune of Kishore Kumar and Mohd. Raﬁ. For my recent
+project, I worked on data stream algorithms on embedded systems. In
+another project I worked on building Information convergence Platform. My
+B.Tech project involved working on sampling algorithms. With these projects, I
+gained knowledge and Ieamed team qualities. which would be good asset",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+83,0.0,4.0,0.0,0.0,MT2015053,"Hi, I am Keerthan Pai, a resident of Bangalore. I am currently pursueing
+M.Tech in Information Technology, IIIT Bangalore. I did my BTech in
+Information Science & engineering from MSRIT Bangalore in 2012. Then I had
+worked in Oracle Communications as a Member of Technical staff for three
+years.
+
+My area of specialization is Data Science. I am good in Algorithms, OOPS and
+design patterns. Success is in accomplishing tasks that would beneﬁt a lot of
+people around you. I believe happiness is the unit of success. Accomplishing
+tasks against odds is the best form of success.
+
+I am still in the pursuing stage
+. I would like to be both respected and liked. But getting respect is more
+
+challenging than being liked, because respect demands some character,
+determination and lot of good qualities. Respect is eame
+
+Being liked is subjective. One cannot be liked by everyone. Not yet. But I am
+getting there.
+
+Success is a habit. I am still in the process of building consistent habit of
+Ieaming, ﬁtness, etc. I constantly except change in all walks of life.
+
+My ﬁrst reaction to change is to sit back and analyze the situation, come up
+with as many reactions as possible,
+
+discuss the reactions with friends & elders if the change is something big,
+and face the situation. Getting back to academia after working for three years
+in the industry has been my best move so far.
+
+With the careerl had chosen earlier, Ieaming was minimal. I was not able to
+use my skills fully.
+
+Now that I can choose any discipl",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+84,0.0,19.0,1.0,0.0,MT2015062,"Hello, i am Mansi Goel from Delhi. I am currently persuing M.Tech from IIITB. I
+have done my B.Tech from College of Engineering Roorkee in Computer
+Science stream.
+
+I have a family of ﬁve. My father is a businessman and my mother a
+homemaker. I have two siblings. My elder sister is working as an Assistant
+Manager in an MNC in Gurgaon and my brother is persuing CA.
+
+My hobbies include sketching, net surﬁng and
+
+. Conﬁdence is one which lets a person break his inhibitions and attain great
+success . However, overconﬁdence is a trait which when persued makes a
+person arrogant and blind to the others ideas and respect. I would maintain a
+healthy one to one relationship with all my team members so that i can have
+an idea of what is going on their front .if things become a little unhealthy in
+their personal or professional space , i would try to offer advice and also help
+to the best i can. Also, i would make sure that the achie of each person is
+never get unappreciated. Well its a little ambigous question as i dont fully
+understand the meaning of outside. Will try to answer from what i have
+understood.
+
+So apart from sketching , surﬁng net, i love to read novels. I am a die hard
+fan of ﬁctions. I also love to solve puzzles like sudoku, crosswords in my free
+time. My outdoor interests include shopping, visiting new places, going out
+with friends, etc. Before persuing my masters i was working as a Software
+Engineer in an MNC. I was a strict 9 to 5 job, sometimes more. So, the
+weekdays were pretty much hectic , howvere, i used to try to squeeze some
+time within the ofﬁce hours and would for go chit chat with friends or would
+play badminton, or a random scroll around the area to revive my mood. To
+rejunuvate i used to go out on weekends with friends and family. Also a good
+novel would do so. Well, to err is human. So yes, i have made mistakes be it
+on personal or professional front. As per me, committing mistakes is not bad ,
+the evil is to not accept it. In most of the cases as i can recall, ifi have
+realized my mistake i would accept it and would try to minimize its damage.
+So , if it",0.0,1.0,0.0,11.0,0.0,0.0,1.0,1.0,7.0,0.0,2.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+85,0.0,6.0,0.0,1.0,MT2015063,"Hello everyone!! i am mayank sharma, pursuing my MTech in Data science
+from IIITB. I have been working in industry for about 3 years and then
+decided to go for specialization. My area of interest is Computer Wsion and i
+am working towards learning and using it for better machine-human
+interactions. However i am notjust a geek, i love dancing and that keeps me
+sane. can not come up with any thing, sorry. There are many people who
+have inspired me, but my father has inﬂuenced me the most. I believe all my
+efforts goes around to be a man like him. His honesty, ethics, vision,
+patience, hard work...it is endless. He is very successful yet so humble, and
+gives back to society by helping others. I have done my research and found
+out your company to be best suited for my area of interest/strength and
+hence hiring me will be a win—win for both. I will be motivated enough to go
+an extra mile as i will enjoy my work. And i strongly believe that i will add
+value to your organization. My area of research is perfectly aligned with the
+job description and hence with me, comes my 2 years of research that will
+bring quality to the kind of work that is being done in the organization. Also i
+have been to industry for 3 years so i know how things work at an
+organization level, so we need not waste time on getting me on board and
+doing ramp up sessions to get used to of working ethics. If you have a better
+plan for me, may be a higher designation. Jokes apart, i don't see any positive
+reason for not hiring. However it is ultimately your decision and i believe you
+are best to judge my capabilities. So let's hope for the best",0.0,0.0,0.0,9.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+86,0.0,7.0,0.0,0.0,MT2015069,"My name is Palash Wjayvergiya and I am pursuing M.Tech in IIIT Bangalore. I
+did my bachelor forJECJabalpur in Computer Science Stream with 7.92 CGPA.
+I did my schooling from St. Anne's School Sehore. Let go of perfectionism,.
+Hard work is done with dedication rather than skill where as smart work is
+done with skill and it is a brainy work. Hard work is doing a particular work by
+physically and smart work is applying mental effort to reduce the time on
+completion of a work. Yes I do. I was born in middle class family where I was
+given freedom to do what I want. I did my graduation from best school of my
+city. My parents gave me sufﬁcient resources to live sustainable and healthier
+life. Yes I am a risk taker. In fact I belong from small town, so to do anything
+out of the box I took n'sk throughout my life. I organised several workshops in
+my carner considering that high risk is involved. I worked in team by giving
+importance to each and every team member. I take my work very sincerely
+and try to complete on time. Try to come out with some different approaches
+and discuss with my friends even if my approaches are rejected number of
+times. Also, by helping my team mates if they are stuck anywhere",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+87,0.0,8.0,0.0,0.0,MT2015100,"My name is Sanjeev. I'm a 2nd year M.Tech student at |||TB.My area of
+specialization is Computer Science. I love coding,machine Ieaming and little
+bit of cryptography.I like cricket,badminton,|awn tennis. I would like to
+contribute back to the society and dream of becoming a teacher. Hard work is
+just keeping your head down and working towards achieving your goal.While
+smart work also helps achiving the goal but with lesser work.
+
+Say, to touch a year, taking your hand all the way around your head and then
+touch it is hard work . But just touch the same ear on same side of your hand
+is smart work. 'Fme is of great essence at work. I have always believed in
+being on time"". Apart from being punctual managing time is also very
+important. As we know lime and ‘Fde wait for none. First, I would prepare
+myself for the potential questions.I would try and avoid a lengthy PPT stuff
+and prepare a very short presentation with mostly diagrams and very less
+text. May be present some case study where in the idea would have provided
+a much better solution than the one currently available. Five years from
+now,with some very useful industry experience with me, I see myself
+teaching in some good college or pursuing a Phd from some good university
+which would further help me pursue my dream of teaching. Well, it really
+depends on how one deﬁnes the term 'successful'. As per my deﬁnition, I'm
+not yet successful as I have not achieved what I dream of, but I would like to
+believe that I'm on the right path",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+88,0.0,3.0,0.0,0.0,MT2015103,"My name is Antriksh. My home town is adalaj, Gujarat. I am pursuing my
+M.Tech in Data Science from IIIT-B. I aspire to become a data scientist at a
+research department of an MNC. I love English literature and occasionally
+write poetry. Since the age of 10, I have had a profound interest in cooking.
+Italian cuisines is my expertise. I come from a spiritual family, and post my
+professional career I have a spiritual inclination. I wish to make a difference in
+the world, especially for the poor and the needy. My friends mean the world
+to me. I will sum up with the quote, It is not legendary if your friends are not
+there to see it""."". Strengths:
+
+I can lead from the front because I believe in team work.
+
+I am good at both written and verbal communication.
+
+I do things to the perfection. I do not do things for the sake of doing them.
+
+I have an ego which says, my work should speak volumes about me.
+
+Weaknesses:
+
+I can not handle things that are slow be it a gadget or a human being.
+
+I am a rebel when it comes to accepting the norms of the society.
+
+I do not easily follow instructions without asking questions. There are
+occasions in which I regret my actions. But it is because of those regrets, I
+have learnt so much and I have grown. 50 except for keeping my tongue in
+check, being a bit more considerate and understanding to my juniors and
+colleague, and not taking life and situations too seriously, I would not want to
+do things differently. Life is about making peace and not wishing to do things
+differently. I-“Ive years from now, I see myself as a ﬁnancially secure person. I
+see myself actively working (directly or otherwise) for some NGO and/or a
+social cause. I would have started working on how would I be starting my own",8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+89,0.0,13.0,2.0,0.0,MT2015106,"Hello My name is Shubham . I belong from Kanpur, U.P. I did my graduation
+fromjIIT Noida in Electronics and Communication Engineering. I am currently
+pursuing Masters in Data Science.I love travelling. I have been to many
+places like Chikmanglur , Rishikesh ,Jammu and kashmir. I love eating and
+mostly I like fast food. Apart from studies I have a great interest in singing
+and Playing Instruments. I love singing hits of Arijit Singh.And in the last I
+would say that a person can do anything if he is determined to do so. I have
+always be a Ieamer and judging my present based on the past will be like
+judging yourself again and again. See the main thing which i believe in is that
+life is full of rights and wrongs.You don't have control over it.So go on with
+your decisions and don't think too much.What i am trying to say is live your
+life full , work hard and enjoy like you never did. At times I take my work very
+seriously. Due to this I spent most of the time of the day in work only and my
+whole focus moves to it.If anyone comes and interferes i get disturbed and
+that disturbance releases in the form of frustration on that person. In the
+organization, most of the employees think that they have got theirjob and
+won't have any problem in future.From here on they begin lacking one thing,
+passion to learn. From what i experienced , the employees don't know about
+new technologies , ideas and new tools which they should be working
+on.Whereas the outsider who has been living in this fast growing technology
+will be knowing these cutting edge technologies much more than the
+emp|oyees.So , at the end the company will get beneﬁt. As i said I have been
+a Ieamer and I will continue to nurture my present knowledge and the
+interests which I shall be having. That passion of mine to create something
+which is going to impact the world has never been out of my sight. With so
+many projects and Seminars done I have that experience which can lead my
+company to new heights and yes i believe in myself. As I said there is nothing
+to disappoint me. My present is what I have been in my past .If i changed the
+decision at that time , some other thing would have happened .50 i believe in
+my past .What I am is because of my past and I respect that.That was me
+only at that time , so it will be judging actually the past you",3.0,0.0,1.0,8.0,0.0,0.0,0.0,0.0,11.0,2.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+90,0.0,9.0,1.0,0.0,MT2015109,"Hello, I'm Yash. I am pursuing my M.Tech in IT. I am very passionate about
+exploring new gadgets, cell phones speciﬁcally. In my pass time, I love to play
+badminton, cricket, table tennis. I love solving puzzles, reading novels on self-
+help and ﬁction. Yes. Being successful to me is to feel that I have done
+something of use today. So achieving daily goals, that in turn contribute to
+my pn'mary goal, makes me feel successful. I am pursuing M.Tech. I opted for
+this because I felt the need to ﬁll in the technical gaps, to understand how an
+Industry works and what Industry expects from graduated like myself. As now
+I feel my requirements are met. I don't have any motivation for studying
+further, as of now. In future, may be. Yes, I feel lucky to get this opportunity to
+study under the best of faculties in IIITB. I feel lucky that I am amongst those
+1 percent of GATE aspirants who get into a prestigious institute like ours to
+Ieam and explore our capabilities. I see myself as an in—charge of project.
+Managing the project, and delivering the expected output.
+
+Apart from work, I see myself as a more mature and calmer person ﬁve years
+from now. Foreseeing the lack of skills and knowledge, and having thirst to
+Ieam, led me to opt for higher studies.
+
+This in turn will lead me to a better place. So I consider this a my best career
+move till now",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+91,0.0,9.0,0.0,0.0,MT2015122,"I am Dharam Unadkat,currently studying in |llTB.| am from Gujarat.| am
+technology enthusiast.My area of interest are ML and NLP.| am quick Ieamer
+as well as good team p|ayer.l love to go for trekking.l believe in philosophy of
+honesty. I would love to learn Computer graphics as new ski|l.As I am very
+curious about it as I have never learned any graphics related course.
+Conﬁdence is something that build faith in ourselves after doing required
+work at a same time we are not ignoring others capabilities and knowledge.
+
+Overconﬁdence is something that comes because of our ego.Be|ieving in self
+without doing required work.Consciously or unconsciously we are ignoring
+capabilities of our compititors. I tried to engage them in our work, by sharing
+all work what I have done.I also explained him how I have done completed
+some of my task.As this helped him to get involved in work and he has
+started active participation in project. I love to play cricket, badminton.| am
+also active trekker.l am an active member of various trekking clubs in
+Bangalore. I think joining IIITB has been my best career decision so far",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+92,0.0,13.0,0.0,3.0,MT2015503,"I am a carefree person,who likes to experience the utmost of |ife.| like
+unreaviling the truth in any situation, and analytic in nature.| ﬁnd it hard to
+go on with routine work, and like to explore new things. i would be more
+focussed and dedicated to achieve my goa|s.The greatest regret i have is not
+ﬁnding the thing i love the most in an early age, so that i could have
+perfected my craft by now, i would deﬁnately have tried to ﬁnd the thing i
+love. i do value time at work, i think if one know the art of spending time
+judiciously the work is more than half done for him. breaking up the work in
+accordance to time, eases off the burden, and motivates one to carry on with
+the work in enthusia. i would ﬁrst try to convince myself with my idea, and try
+to ﬁnd out what are the loop holes which would not allow my ideas to be
+accepted by any person. I would work on that so that i sound more
+convincing. i would also create a sense of urgency in my client to accept my
+ide. it was during my report submission time at the end of 2nd semester in
+M.tech. There were 5 reports to be submitted within 6 days time. i made up a
+plan to do a part of the report for every 3 subjects each day so that i do not
+get bored, and it worked and i could submit all the reports timely. at this point
+of time i am not planning to go for higher studies, rather i am more focussed
+to get a industrial experience, i would deﬁnately like to go for higher studies
+if i am working on something new, and the company needs me to know more
+about it theoritically",0.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+93,0.0,15.0,0.0,0.0,MT2015519,"I am Shivam Singh from Lucknow. I passed SSC from Cynthia Public School,
+Nainital then class 12th from RLB School Lucknow. I chose engineering as a
+career option to me for that I joined Graphic Era Uniersity, Dehradun and
+completed B.tech in ECE receiving Gold Medal for academic excellence. Now I
+am pursuinf M.Tech in SOC from IIIT Bengaluru. Prior to IIITB I have been
+pursuing MS in Industrial Engineering from IIT Kharagpur but I left the course
+in between.
+
+I like to write poems and stories and currently I am working to write a book. I
+love to cook food. Hard work is all about diligently performing the task
+assigned or encountered. Hard work does not concerns with how efﬁciently
+the task has been performed. It is just about laborious devotion towards the
+task in order to complete it. On the other hand smart work not only talks
+about the completion of work it concerns that how effectively and efﬁciently
+the task has been done. Smart work is to save time, people and money.
+Obviously to be smart. Apart from engineering a lot of things interest me sol
+read about them and I try to share what I gain through these readings. Once I
+start sharing information with others from different aspects of life they start
+getting annoyed and criticize me. Also I have a habit of nor tolerating wrong
+things so easily retaliate towards any wrong activity which also makes me to
+taste a lot of criticism. If the idea is good then it becomes quite easy to
+convince the client because a good idea has a reﬂection of what it can
+become. And once the idea is not good and by not good I mean different and
+novel then deﬁnitely one has to suffer tough time convincing the client. We
+need to show a lot of background work, statistics, even historical notions and
+some expected miraculous results to convince the client. Personally for me it
+doesn't matter whether at work or not, time is always precious. As time
+traveling is just a fantasy till now so time once gone never comes back so
+better to use it in the best possible way. And the best possible way is not only
+at work, each moment is blank page and we can try our best to write what we
+want. And it is obvious that not every time what we wish will happen but
+whatever happens will. I never loved taking risks I always wanted things to be
+straight forward but as the time has passed I have learnt to take risks and
+believe me I have taken a few very serious risks and one of them is dropping
+IIT Kharagpur and joining IIIT Bengaluru. I don't know how many people ﬁnd
+this decision of dropping IIT a risk but trust me once you are in IIT then
+leaving it is really very difﬁcult",1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+94,0.0,6.0,0.0,0.0,PH2014003,"I am Gopika Gopan K, doctoral scholar at lntemational Institute of Infonnation
+Technology, Bangalore. My research are is Electroencephalographic signal
+processing, which is processing of brain signals for disease analysis or brain
+machine interface. My interests include Machine learning, signal Processing,
+Neuroscience and Mathematics in general. In addition, am also interested in
+activities like versiﬁcation, painting and dancing. I would contact my
+supervisor and express myself politely about the problem and how it ls
+causing a disturbance to my research work. Not really. This job proﬁle is that
+of a biomedical engineer in health care, which is precisely my area of
+interest. In addition, this proﬁle includes brain machine interface with use of
+robotics. This has been my career goal — to work in brain machine interface
+and produce a health care system useful for people. I would have been more
+open than reserved. In addition, I would pursue my hobbies apart from my
+research interest. There have been many mistakes but none too serious to
+comment here. In general, when I make a mistake and if it affects my
+negatively, I try to be positive and make it right in whichever way possible",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+95,0.0,9.0,0.0,0.0,PH2014008,"I am Sowmya. I am a third year PhD student at IIIT Bangalore. I work in the
+area of social computing, computer vision and machine Ieaming. I completed
+my master's in BMSCE in 2009 in the area of Digital Communications. I
+worked as an assistant professor for four years in reputed colleges in
+bangalore. I wish to see myself as Dr. Sowmya in a very good research
+company as a research scientist. Two years down the lane, I wish to complete
+PhD and join for post doctoral studies in a reputed institute. Good job is itself
+a motivation to work. Comfortableness, security, payment, ﬂexibility, work,
+encouragement, appreciation motivates to work for any employee. If the
+mentioned qualities are satisﬁed, i think everyone will be motivated to work.
+As a family oriented person, deﬁnitely my performance will be affected under
+pressure. Given enough support and motivation, I will try my best and put
+effort to complete the assigned work. Also, if the pressure is for a limited
+duration, I think there will not be any change in my performance. I feel great
+about that. I appreciate his/her hard work and intelligence for having them
+reached to a senior position at an young age. I will surely take good from that
+young person, collaborate and learn things. Even when the possibiility of
+joining IIT during my master's was open for me, I could not join due to health
+issues. I remember that as the greatest disappointment in my life. My
+thoughts, dreams, ambitions would have changed ifl had joined IIT for
+master's degree",5.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+96,0.0,5.0,0.0,0.0,PH2014010,"I am currently a PhD Scholar at IIIT Bangalore working in the area of
+Computer Vision and Machine Learning. I completed my Diploma in
+Electronics Engineering from SSM Polytechnic Kerala after which I worked at
+RRCAT( Dept of Atomic Energy), Indore as Scientiﬁc Assistant. During this
+period I complete AMIE in Electronics Engineering and left the job to pursue
+for higher studies ( M.Tech in Computer Technology) at IIT Delhi. After
+completing M. Tech, I worked as a software engineer for companies like
+Oracle, Yahoo and Microsoft. Now that I want to go with may passion of
+teaching and research and so joined for PhD. I am very poor at balancing life
+and work. During my software engineering career of 12 years in Oracle,
+Yahoo and Microsoft, this has always challenge. However few things I can
+think of is to stay near your workplace, after reaching home don't think about
+work too much so that you can enjoy the time with your family and friends. It
+is important to have attend or anrange family and friends get. Organised:— I
+get up early in the morning and go to my workplace, without fail unless
+something urgent comes up. Keep value for time and try to respect deadlines.
+
+Disorganised:- Poor in documenting day to day work, unless it is mandated by
+the employer. Please do hire me. Mainitaining good worklife balance has
+always been an issue for me. No",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+97,1.0,15.0,0.0,3.0,PH2014014,"this is manjunath. i have done my BE from SIT tumkur in computer science
+and MS from IIT kharagpur. Currently, i am pursuing PHD ai IIIT bangalore in
+speech processing. I would like to pursue a carrier in Research and
+Academics. I am interested in doing teaching kids in govt schools. My hobbies
+are playing chess, watching movies etc. I am quadrilingual. I would like to
+ﬁnish my PHD and after that I dont have plans of higher studies. Strengths:
+hardworker, positive thinking, honest, quality work.
+
+Weakness : Managing time, Communication skills. Pursuing MS from IIT KGP
+and Publishing research articles. I have a masters from IIT and PHD from |||T,
+which top tier institues. I have worked under the guidance of world class
+professors and hence have a better exposure to research. I have got around
+12 publications. All this reﬂect that I have strong research proﬁle. This makes
+me a real asset, because if I join your organisation, I could utilise these
+abilities and generate innovative ideas and products. I also have 2.5 of
+expierence as software engineer. This for Yohelp. balance of both job
+satisfaction or salary",1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+98,0.0,4.0,0.0,0.0,PH2015013,"I am vandana Ladwani. I am a research scholar at IIITB. I am working in the
+area of signal processing.I like the work I do. liked. I am passionate about my
+work so would try to give my best to the organisation. I just completed my
+work and asked the coworker about his share ,when couldn't get any
+response .just told the boss about things and was ready to complete on my
+own but keeping it the notice of my boss. I would have spent little more time
+with my famiIy.I would have tried to handle some of the problems in a
+different way.I would have set even higher goals for my life. No",7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+99,0.0,7.0,0.0,0.0,PH2015015,"Myself Annapurna Shanna. My qualiﬁcations are BE (ECE), MS(Ubiquitous
+Computing). Presently I am pursuing PHD from IIITB in Machine Ieaming and
+Computer Vision. My research Interests are Machine Learning, Computer
+vision and Signal Processing. I will communicate with the people involved and
+try to get a sense of agreement for healthy work environment. Conﬁdence is
+planning after knowing the existing capabilities, resources and situations.
+Overconﬁdence is planning assuming the best possible capabilities , resource
+and scenarios. The person who is already within the organization is knowing
+the organization better and is a valuable resource. But ifl get a chance I will
+deﬁnitely be putting more efforts to make the position successful in terms my
+efforts and proving my capabilities. Public Speaking on Social front, Latest
+technologies in Technical front and Painting on personal front. Hard work is
+like putting the efforts, resources and time totally to achieve the desired
+results. Smart work is putting the efforts to utilize the time and resources
+efﬁciently to achieve the results with a sense of contentment. Smart work
+also ensures less mental and physical pressure",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+100,0.0,3.0,0.0,0.0,PH2015017,"Hi, lam Chinchu Thomas. My native is in Kerala. I am pursuing PHD in IIIT
+Bangalore. I work under Dr. Dinesh Babu Jayagopi. The major area is
+computer vision and machine learning. I did B Tech in Electronics and
+Communication and M Tech in Signal Processing, both from Cochin University
+of Science and Technology, Kerala. I would ii. I can assure that I will be putting
+my best into the works. I will be a responsible person who will stick to the
+organisational commitments. My technical and managerial skills will be
+utilised to the best. I would like to talk about my skills here. From the
+managerial side, I would like to emphasise that I very punctual and
+disciplined. And also technical skills are also good enough to crack the
+problem at hand. I am interested in sports and music. Yes I consider myself a
+successful person. I believe success is not just achieving. The success of a
+person lies in the way the life is oriented. More than that, if you are a person
+of high character, who can see others through you, there lies the success of a
+person. Also the physical aspects add to th. You shouldn't hire me if you felt
+that I am not good enough to complete the tasks. I can assure a fruitful effort
+from my side. I assure proper utilisation of time and skills from my side. The
+organisation's growth through my small efforts will be my ultimate goal",2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+101,0.0,12.0,0.0,0.0,PH2015018,"Myself Debanjali Bhattacharya,bom and brought up in kolkata.. I have passed
+my Mtech from I|ESt, shibpur in mechatronics. Currently doing PhD in IIIT,
+bangalore. Mt area of research is in MRI imaging I have total 3.5 years
+teaching experience at kolkata, pune at bangalore. I keep myself clam and try
+to control myself. But If I think I am right, I try to give logical reason about
+what I am doing. No.. Not yet. Trying to do a very good work on my research
+topic so that I can able to contribute something to my society through my
+work. It is never happend so far. By staying steady and thinking some
+positives..Looking at my goal in life, I agree certain changes, when it happens
+in my life",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+102,0.0,7.0,0.0,1.0,PH2016006,"I proudly introduce myself as a research scholar at ||IT—Banga|ore. I have
+become the part of IIIT-B family on Aug. 01, 2016. I am M.Tech. in VLSI
+Design. I am passionate about chip designing. I like to explore the world and
+its different horizons. I like to be the best but at the same time value team,
+relations and people. I have a great technical interests and have participated
+and won various technical competitions. I am proﬁcient at Digital VLSI Design
+using Hardware Description languages. I want to create something new for
+society. Nothing is possible without interest, zeal and passion. I am
+passionate towards achieving good results, enjoy working in a team and
+responsible enough to complete my job with requisite sincerity. My resume
+shows my skills, my technical orientation as well as my management skills as
+being the chief organizer in various evenls at college. I believe in myself and
+want to give the best. I brushed up my basics, did online surﬁng, interacted
+with people for having a fruitful exchange of knowledge.
+
+I know what exactly the company is looking for and I ﬁnd those qualities
+resembling to my till date experience. I have always maintained good grades
+throughout academics. I like to try new and different things.
+
+I am ﬂexible and equally sincere towards any task given. I can lead a team
+and focus on task completion with quality. I have a wide experience in
+academic projects. If your aim is clear, you stay self motivated. Obviously
+pressure affects when you join a new organization, but I adapt quickly. I have
+always maintained good grades throughout academics. I like to try new and
+different things.
+
+I am ﬂexible and equally sincere towards any task given. I can lead a team
+and focus on task completion with quality. I have a wide experience in
+academic projects. I have won various state level competitions and I over
+time I have discovered a good team leader in me also",15.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
